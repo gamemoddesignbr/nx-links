@@ -1661,6 +1661,35 @@
             }
         }
     },
+    "GMPACK-MOTD": {
+        "enabled": true,
+        "always_show": false,
+        "message": "05/08/2022 10:30AM\nBem-vindo ao Atualizador Pacote GameMod (APG)!\n\nNo dia 05 de Agosto de 2022 uma nova versão do GMPACK foi disponibilizada e, de agora em diante, ele é livre de pirataria (piracy free)!\n\nAssim como o Atmosphère, o GMPACK sempre foi distribuído gratuitamente e seu propósito sempre foi habilitar o uso de homebrews (“programas caseiros” não-oficiais criados pelos próprios usuários de uma plataforma específica).\nPor favor, consulte o “aviso legal” presente no arquivo “LEIA-ME.txt” dentro do GMPACK ou aperte o botão Y no APG para mais detalhes.\n\nObrigado!"
+   },
+    "CNXPACK-MOTD": {
+        "enabled": true,
+        "always_show": false,
+        "message":  "13/06/2022 21:44\nAVISO!\n\nBem-vindo ao Atualizador do Pacote CNX! Suporte ao Firmware 14.1.2!"
+    },
+    "SGM-MOTD": {
+        "enabled": true,
+        "always_show": false,
+        "message": "06/05/2022 21:36\nAVISO!\n\nBem-vindo ao pacote SGM!"
+    },
+    "cfws": {
+        "GMPACK": {
+            "releases": "https://api.github.com/repos/gamemoddesignbr/gmpack/releases/latest"
+        },
+        "CNXPACK": {
+            "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest"
+        },
+        "SGM": {
+            "releases": "https://api.github.com/repos/SGMSteel/sgmpack/releases/latest"
+        },
+        "GNX": {
+            "releases": "https://api.github.com/repos/Goma1337/GNXSD/releases/latest"
+        }
+    },
     "firmwares": {
         "releases": "https://api.github.com/repos/AMSNX/NX-Firmwares/releases"
     }
