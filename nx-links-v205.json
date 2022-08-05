@@ -1663,7 +1663,7 @@
     },
     "GMPACK-MOTD": {
         "enabled": true,
-        "always_show": true,
+        "always_show": false,
         "message": "05/08/2022 13:15AM\nBem-vindo ao Atualizador Pacote GameMod (APG)!\n\nNo dia 05 de Agosto de 2022 uma nova versão do GMPACK foi disponibilizada e, de agora em diante, ele é livre de pirataria (piracy free)!\n\nAssim como o Atmosphère, ele não tem arquivos para contornar a segurança do Nintendo Switch™ (como sigpatches, etc.) e sempre foi distribuído gratuitamente. Seu propósito principal é o de somente habilitar o uso de homebrews (“programas caseiros” não-oficiais criados pelos próprios usuários de uma plataforma específica).\nPor favor, consulte o “aviso legal” presente no arquivo “LEIA-ME.txt” dentro do GMPACK ou aperte o botão Y no APG para mais detalhes.\n\nObrigado!"
    },
     "CNXPACK-MOTD": {
@@ -1687,7 +1687,7 @@
             "releases": "https://api.github.com/repos/SGMSteel/sgmpack/releases/latest"
         },
         "OUTROS": {
-            "releases": "https://api.github.com/repos/gamemoddesignbr/gmpack/releases/latest"
+            
         }
     },
     "firmwares": {
