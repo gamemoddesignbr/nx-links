@@ -1669,7 +1669,7 @@
     "CNXPACK-MOTD": {
         "enabled": true,
         "always_show": false,
-        "message":  "13/06/2022 21:44\nAVISO!\n\nBem-vindo ao Atualizador do Pacote CNX! Suporte ao Firmware 14.1.2!"
+        "message":  "07/08/2022 21:55\nBem-vindo ao CNX Pack Updater!\n\nNo dia 07 de Agosto de 2022 uma nova versão do Pacote foi disponibilizada e, de agora em diante, ele é livre homebrews de pirataria (piracy free)!\n\nAssim como o Atmosphère, ele não tem arquivos para contornar a segurança do Nintendo Switch™ e sempre foi distribuído gratuitamente. Seu propósito principal é o de somente habilitar o uso de homebrews (“programas caseiros” não-oficiais criados pelos próprios usuários de uma plataforma específica).\nPor favor, consulte o “aviso legal” presente no arquivo “LEIA-ME.txt” dentro do CNX Pack Updater ou aperte o botão Y no APG para mais detalhes.\n\nObrigado!"
     },
     "SGM-MOTD": {
         "enabled": true,
