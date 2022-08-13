@@ -1043,7 +1043,37 @@
                 }
             }
         },
-        "Sonic Mania Plus": {
+		"Sonic Colors Ultimate": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/soniccorlosultimate/010040E0116B8000.zip",
+            "size": "568 KB",
+            "installed": {
+                "hash_file": "010040E0116B8000/romfs/ultimateptbr.zip",
+                "hash_size": 596926,
+                "uninstall": {
+                    "path01": "010040E0116B8000/romfs"
+                }
+            }
+        },
+        "Sonic Forces": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/sonicforces/sonicforcesptbr.zip",
+            "size": "313 MB",
+            "installed": {
+                "hash_file": "01001270012B6000/romfs/disk/wars_patch.cpk",
+                "hash_size": 90699408,
+                "uninstall": {
+                    "path01": "01001270012B6000/romfs",
+					"path02": "01001270012B7001/romfs",
+					"path03": "01001270012B7002/romfs",
+					"path04": "01001270012B7003/romfs",
+					"path05": "01001270012B7004/romfs",
+					"path06": "01001270012B7005/romfs",
+					"path07": "01001270012B7006/romfs"
+                }
+            }
+        },
+		"Sonic Mania Plus": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Sonic_Mania_Plus/01009AA000FAA000.zip",
             "size": "181 MB",
