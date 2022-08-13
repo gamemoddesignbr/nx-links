@@ -1043,7 +1043,7 @@
                 }
             }
         },
-		"Sonic Colors Ultimate": {
+	"Sonic Colors Ultimate": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/soniccorlosultimate/010040E0116B8000.zip",
             "size": "568 KB",
@@ -1070,10 +1070,10 @@
 					"path05": "01001270012B7004/romfs",
 					"path06": "01001270012B7005/romfs",
 					"path07": "01001270012B7006/romfs"
-                }
+		}
             }
         },
-		"Sonic Mania Plus": {
+	"Sonic Mania Plus": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Sonic_Mania_Plus/01009AA000FAA000.zip",
             "size": "181 MB",
