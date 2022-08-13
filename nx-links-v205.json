@@ -1716,7 +1716,8 @@
         "SGM": {
             "releases": "https://api.github.com/repos/SGMSteel/sgmpack/releases/latest"
         },
-        "OUTROS": { 				           
+        "OUTROS": { 
+		
         }
     },
     "firmwares": {
