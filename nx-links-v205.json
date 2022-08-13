@@ -1717,8 +1717,8 @@
             "releases": "https://api.github.com/repos/SGMSteel/sgmpack/releases/latest"
         },
         "OUTROS": { 
-		
-        }
+			"releases":
+		}
     },
     "firmwares": {
         "releases": "https://api.github.com/repos/AMSNX/NX-Firmwares/releases"
