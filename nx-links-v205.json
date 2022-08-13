@@ -1055,7 +1055,7 @@
                 }
             }
         },
-        "Sonic Forces": {
+    "Sonic Forces": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/sonicforces/sonicforcesptbr.zip",
             "size": "313 MB",
