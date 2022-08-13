@@ -1686,7 +1686,7 @@
                 "hash_size": 119768,
                 "uninstall": {
                     "path01": "01007EF00011E000",
-		    "path02": "01007EF00011F001"
+					"path02": "01007EF00011F001"
                 }
             }
         }
@@ -1716,10 +1716,10 @@
         "SGM": {
             "releases": "https://api.github.com/repos/SGMSteel/sgmpack/releases/latest"
         },
-        "OUTROS": {
-            
-        },
-    },
+        "OUTROS": { 
+			"releases": "https://api.github.com/repos/gnxswitch/gnxsd/releases/latest"
+		}
+	},
     "firmwares": {
         "releases": "https://api.github.com/repos/AMSNX/NX-Firmwares/releases"
     }
