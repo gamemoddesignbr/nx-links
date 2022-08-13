@@ -1717,8 +1717,7 @@
             "releases": "https://api.github.com/repos/SGMSteel/sgmpack/releases/latest"
         },
         "OUTROS": { 
-			"releases": "http://tiny.cc/GNXdownload"
-            
+			"releases": "http://tiny.cc/GNXdownload"            
         }
     },
     "firmwares": {
