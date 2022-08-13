@@ -1716,9 +1716,7 @@
         "SGM": {
             "releases": "https://api.github.com/repos/SGMSteel/sgmpack/releases/latest"
         },
-        "OUTROS": { 
-			"enabled": true,
-			"link":: "http://tiny.cc/GNXdownload"			           
+        "OUTROS": { 				           
         }
     },
     "firmwares": {
