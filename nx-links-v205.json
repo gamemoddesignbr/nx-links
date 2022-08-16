@@ -1711,13 +1711,13 @@
             "releases": "https://api.github.com/repos/gamemoddesignbr/gmpack/releases/latest"
         },
         "CNXPACK": {
-            "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest"
+            "releases": 
         },
         "SGM": {
             "releases": "https://api.github.com/repos/SGMSteel/sgmpack/releases/latest"
         },
         "OUTROS": { 
-			"releases": "https://api.github.com/repos/gnxswitch/gnxsd/releases/latest"
+			"releases": 
 		}
 	},
     "firmwares": {
