@@ -1717,9 +1717,9 @@
             "releases": "https://api.github.com/repos/SGMSteel/sgmpack/releases/latest"
         },
         "OUTROS": { 
-			"releases": "https://api.github.com/repos/gnxswitch/gnxsd/releases/latest"
+	    "releases": "https://api.github.com/repos/gnxswitch/gnxsd/releases/latest"
 		}
-	},
+    },
     "firmwares": {
         "releases": "https://api.github.com/repos/AMSNX/NX-Firmwares/releases"
 		}
