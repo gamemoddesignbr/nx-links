@@ -1665,6 +1665,18 @@
                 }
             }
         },
+		"TMNT: Shredder's Revenge - Color Pack TMNT Turtles in Time": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/tmnt/0100FE701475A000.zip",
+            "size": "7.71 MB",
+            "installed": {
+                "hash_file": "0100FE701475A000/romfs/Content/2d/Animations/Bosses/Slash/SlashTexture.zxnb",
+                "hash_size": 202121,
+                "uninstall": {
+                    "path01": "0100FE701475A000"
+                }
+            }
+        },
         "Zelda™: Link's Awakening - No Blur": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/ZeldaAwekeningNoBlur/01006BB00C6F0000.zip",
