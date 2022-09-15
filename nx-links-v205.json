@@ -192,7 +192,7 @@
                 }
             }
         },
-		"Chrono Cross ( requer update 1.1 )": {
+	"Chrono Cross ( requer update 1.1 )": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ccross/ccross.zip",
             "size": "2.91 MB",
