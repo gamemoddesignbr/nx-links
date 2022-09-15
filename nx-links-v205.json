@@ -192,6 +192,19 @@
                 }
             }
         },
+		"Chrono Cross ( requer update 1.1 )": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ccross/ccross.zip",
+            "size": "2.91 MB",
+            "installed": {
+                "hash_file": "0100AC20128AC000/romfs/data/launcher/Resources/EN/Image/base.png",
+                "hash_size": 1851461,
+                "uninstall": {
+                    "path01": "0100AC20128AC000/romfs",
+					"path02": "0100AC20128AC001/romfs"
+                }
+            }
+        },
         "Crysis 2 Remastered": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crysis2/0100582010AE0000.zip",
