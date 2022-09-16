@@ -467,6 +467,18 @@
                 }
             }
         },
+		"Ghosts 'n Goblins Resurrection": {
+            "enabled": true,
+            "link": "https://mega.nz/file/YgJRDDRT#i0X1vHhQsCPyS3QDc2j1OxPg8-yBgNSYA1puvw4anSU",
+            "size": "2.86 GB",
+            "installed": {
+                "hash_file": "0100EAE00D9EC000/romfs/LANGUAGE.POD",
+                "hash_size": 2086920,
+                "uninstall": {
+                    "path01": "0100EAE00D9EC000/romfs"
+                }
+            }
+        },
         "Ghostbusters The Video Game Remastered": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ghostbusters/0100EAE00D9EC000.zip",
