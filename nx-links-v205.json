@@ -472,8 +472,8 @@
             "link": "https://mega.nz/file/YgJRDDRT#i0X1vHhQsCPyS3QDc2j1OxPg8-yBgNSYA1puvw4anSU",
             "size": "2.86 GB",
             "installed": {
-                "hash_file": "0100EAE00D9EC000/romfs/LANGUAGE.POD",
-                "hash_size": 2086920,
+                "hash_file": "0100EAE00D9EC000/romfs/re_chunk_000.pak.patch_002.pak",
+                "hash_size": 982,
                 "uninstall": {
                     "path01": "0100EAE00D9EC000/romfs"
                 }
