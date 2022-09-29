@@ -1602,13 +1602,13 @@
         }
     },
     "modifications": {
-        "Diablo II Resurrected - Offline Patch (1.0.1.5)": {
+        "Diablo II Resurrected - Offline Patch (1.0.1.8)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
-            "size": "11.7 MB",
+            "size": "16.1 MB",
             "installed": {
                 "hash_file": "0100726014352000/exefs/main",
-                "hash_size": 16892085,
+                "hash_size": 16937767,
                 "uninstall": {
                     "path01": "0100726014352000/exefs"
                 }
