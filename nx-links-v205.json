@@ -1751,7 +1751,7 @@
             "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest"
         },
         "SGM": {
-            "releases": "https://api.github.com/repos/SGMSteel/sgmpack/releases/latest"
+            "releases": "https://api.github.com/repos/SGMSteel1/sgmpack/releases/latest"
         },
         "OUTROS": { 
 	    "releases": "https://api.github.com/repos/gnxswitch/gnxsd/releases/latest"
