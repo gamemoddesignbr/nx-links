@@ -1745,7 +1745,7 @@
     },
     "cfws": {
         "GMPACK": {
-            "releases": "https://api.github.com/repos/SGMSteel1/sgmpack/releases/latest"
+            "releases": "https://api.github.com/repos/gamemoddesignbr/gmpack/releases/latest"
         },
         "CNXPACK": {
             "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest"
