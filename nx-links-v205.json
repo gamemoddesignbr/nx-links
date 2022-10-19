@@ -1642,6 +1642,18 @@
                 }
             }
         },
+		"Mario + Rabbids Sparks of Hope ( 60 FPS MOD )": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/MRSH60FPS/0100317013770000.zip",
+            "size": "686 B",
+            "installed": {
+                "hash_file": "0100317013770000/cheats/29c71f06d781eff1.txt",
+                "hash_size": 296,
+                "uninstall": {
+                    "path01": "0100317013770000/cheats/Movies"
+                }
+            }
+        },
         "Mario Strikers Battle League FIX EMUMMC SD Files": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/mariostrikersfix/010019401051C000.zip",
