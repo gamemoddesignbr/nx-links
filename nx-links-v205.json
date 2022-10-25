@@ -65,10 +65,22 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/bayonetta/010076F0049A2000.zip",
             "size": "464 MB",
             "installed": {
-                "hash_file": "0100A4D0146B2000/romfs/locdoc.csv",
-                "hash_size": 629840,
+                "hash_file": "010076F0049A2000/romfs/data00.cpk",
+                "hash_size": 1241871280,
                 "uninstall": {
-                    "path01": "0100A4D0146B2000/romfs"
+                    "path01": "010076F0049A2000/romfs"
+                }
+            }
+        },
+		"Beholder Complete Edition": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/beholder/0100D1300C1EA000.zip",
+            "size": "315 KB",
+            "installed": {
+                "hash_file": "0100D1300C1EA000/romfs/romfs/Data/StreamingAssets/Localization/en/strings.xml",
+                "hash_size": 1126257,
+                "uninstall": {
+                    "path01": "0100D1300C1EA000/romfs"
                 }
             }
         },
