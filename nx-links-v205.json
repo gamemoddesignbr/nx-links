@@ -1614,19 +1614,19 @@
         }
     },
     "modifications": {
-        "Diablo II Resurrected - Offline Patch (1.0.1.8)": {
+        "Diablo II Resurrected - Offline Patch (1.0.2.0)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
             "size": "16.1 MB",
             "installed": {
                 "hash_file": "0100726014352000/exefs/main",
-                "hash_size": 16937767,
+                "hash_size": 16941316,
                 "uninstall": {
                     "path01": "0100726014352000/exefs"
                 }
             }
         },
-        "Nintendo 64 Online ( Update 2.5.0 )": {
+        "Nintendo 64 Online ( Update 2.8.0 )": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/n64on/0100C9A00ECE6000.zip",
             "size": "1.08 GB",
@@ -1654,7 +1654,7 @@
                 }
             }
         },
-		"Mario + Rabbids Sparks of Hope ( 60 FPS MOD )": {
+	"Mario + Rabbids Sparks of Hope ( 60 FPS MOD )": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/MRSH60FPS/0100317013770000.zip",
             "size": "686 B",
@@ -1690,7 +1690,7 @@
                 }
             }
         },
-        "SNES 300 ROMS - Nintendo Switch Online": {
+        "SNES 300 ROMS - Nintendo Switch Online" ( BASEGAME 1.0.0 ): {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/sneson/snes300.zip",
             "size": "431 MB",
@@ -1738,7 +1738,7 @@
                 }
             }
         },
-		"Zelda™: BOTW Second Wind Mod": {
+	"Zelda™: BOTW Second Wind Mod": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/zeldasecondwind/second_wind.zip",
             "size": "1.11 GB",
