@@ -479,7 +479,7 @@
                 }
             }
         },
-	"Ghosts 'n Goblins Resurrection": {
+		"Ghosts 'n Goblins Resurrection": {
             "enabled": true,
             "link": "https://mega.nz/file/YgJRDDRT#i0X1vHhQsCPyS3QDc2j1OxPg8-yBgNSYA1puvw4anSU",
             "size": "2.86 GB",
@@ -527,9 +527,21 @@
                 }
             }
         },
-        "Isoland": {
+		"Iconoclasts": {
             "enabled": true,
-            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Isoland/010065200D192000.zip",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/iconoclasts/0100BC60099FE000.zip",
+            "size": "202 KB",
+            "installed": {
+                "hash_file": "0100BC60099FE000/romfs/Data/dia",
+                "hash_size": 1270544,
+                "uninstall": {
+                    "path01": "0100BC60099FE000/romfs"
+                }
+            }
+        },
+		"Isoland": {
+            "enabled": true,
+			"link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Isoland/010065200D192000.zip",
             "size": "289 KB",
             "installed": {
                 "hash_file": "010065200D192000/romfs/Data/resources.assets",
@@ -538,7 +550,7 @@
                     "path01": "010065200D192000/romfs"
                 }
             }
-        },
+        },        
         "Kirby - Forgotten Lands": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Kyrby_Forgotten_Lands/01004D300C5AE000.zip",
@@ -587,7 +599,7 @@
                 }
             }
         },
-          "Legend of Mana Remastered (Requer Update 1.1.0)": {
+        "Legend of Mana Remastered (Requer Update 1.1.0)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/lomr/01003570130E2000.zip",
             "size": "718 MB",
@@ -1369,10 +1381,10 @@
         "Triangle Strategy": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/trianglestrategy/0100CC80140F8000.zip",
-            "size": "58.8 MB",
+            "size": "59 MB",
             "installed": {
-                "hash_file": "0100CC80140F8000/romfs/Newera/Content/Paks/Newera-Switch_TRPKG_v_0.0.6_P.pak",
-                "hash_size": 65657868,
+                "hash_file": "0100CC80140F8000/romfs/Newera/Content/Paks/Newera-Switch_TRPKG_v_0.1.0_P.pak",
+                "hash_size": 65848090,
                 "uninstall": {
                     "path01": "0100CC80140F8000/romfs"
                 }
