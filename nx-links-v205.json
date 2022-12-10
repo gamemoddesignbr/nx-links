@@ -1220,6 +1220,18 @@
                 }
             }
         },
+		"Story of Seasons Friends of Mineral Town": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/storyofseasonfomt/0100ED400EEC2000.zip",
+            "size": "1.16 MB",
+            "installed": {
+                "hash_file": "0100ED400EEC2000/romfs/resource/message/ichigo_message_all_ES.lzs",
+                "hash_size": 1387295,
+                "uninstall": {
+                    "path01": "0100ED400EEC2000/romfs"
+                }
+            }
+        },
         "Super Cable Boy": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/supercableboy/01008260145F2000.zip",
