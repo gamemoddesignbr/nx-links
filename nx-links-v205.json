@@ -376,10 +376,22 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/falloutshelter/010043500A17A000.zip",
             "size": "6.14 MB",
             "installed": {
-                "hash_file": "010043500A17A000/romfs/data/resources.assets",
+                "hash_file": "0100BEB015604000/romfs/data/resources.assets",
                 "hash_size": 34799400,
                 "uninstall": {
                     "path01": "010043500A17A000/romfs"
+                }
+            }
+        },
+		"Fatal Frame Maiden of The Black Water": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffmotw/0100BEB015604000.zip",
+            "size": "53.1 MB",
+            "installed": {
+                "hash_file": "010043500A17A000/romfs/text/USen/LYRICS.fmsg",				
+                "hash_size": 5056,
+                "uninstall": {
+                    "path01": "0100BEB015604000/romfs"
                 }
             }
         },
@@ -981,6 +993,30 @@
                 "hash_size": 123288,
                 "uninstall": {
                     "path01": "100abf008968000/romfs"
+                }
+            }
+        },
+		"Pokemon Scarlet": {
+            "enabled": false,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases",
+            "size": "24.9 MB",
+            "installed": {
+                "hash_file": "",
+                "hash_size": 123288,
+                "uninstall": {
+                    "path01": ""
+                }
+            }
+        },
+		"Pokemon Violet": {
+            "enabled": false,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/",
+            "size": "24.9 MB",
+            "installed": {
+                "hash_file": "",
+                "hash_size": 123288,
+                "uninstall": {
+                    "path01": ""
                 }
             }
         },
