@@ -1220,13 +1220,13 @@
                 }
             }
         },
-		"Story of Seasons Friends of Mineral Town(somente 1.0.0)": {
+		"Story of Seasons Friends of Mineral Town( Update 1.0.5)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/storyofseasonfomt/0100ED400EEC2000.zip",
-            "size": "1.16 MB",
+            "size": "1.20 MB",
             "installed": {
                 "hash_file": "0100ED400EEC2000/romfs/resource/message/ichigo_message_all_ES.lzs",
-                "hash_size": 1387295,
+                "hash_size": 1432896,
                 "uninstall": {
                     "path01": "0100ED400EEC2000/romfs"
                 }
