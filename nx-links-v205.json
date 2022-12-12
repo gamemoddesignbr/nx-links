@@ -997,26 +997,26 @@
             }
         },
 		"Pokemon Scarlet": {
-            "enabled": false,
-            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases",
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSCARLET/0100A3D008C5C000.zip",
             "size": "24.9 MB",
             "installed": {
-                "hash_file": "",
-                "hash_size": 123288,
+                "hash_file": "0100A3D008C5C000/romfs/arc/data.trpfd",
+                "hash_size": 9295960,
                 "uninstall": {
-                    "path01": ""
+                    "path01": "0100A3D008C5C000/romfs"
                 }
             }
         },
 		"Pokemon Violet": {
-            "enabled": false,
-            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/",
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMVIOLET/01008F6008C5E000.zip",
             "size": "24.9 MB",
             "installed": {
-                "hash_file": "",
-                "hash_size": 123288,
+                "hash_file": "01008F6008C5E000/romfs/arc/data.trpfd",
+                "hash_size": 9295960,
                 "uninstall": {
-                    "path01": ""
+                    "path01": "01008F6008C5E000/romfs"
                 }
             }
         },
