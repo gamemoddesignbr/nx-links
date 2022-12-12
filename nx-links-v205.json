@@ -1011,7 +1011,7 @@
 		"Pokemon Scarlet Golpes em Inglês": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMESCARLATGI/0100A3D008C5C000.zip",
-            "size": "24.9 MB",
+            "size": "31.7 MB",
             "installed": {
                 "hash_file": "0100A3D008C5C000/romfs/appli/data/bag/bag_pp_00_eng.arc",
                 "hash_size": 146580,
@@ -1035,7 +1035,7 @@
 		"Pokemon Violet Golpes em Inglês": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSCARLETGI/01008F6008C5E000.zip",
-            "size": "24.9 MB",
+            "size": "31.7 MB",
             "installed": {
                 "hash_file": "01008F6008C5E000/romfs/appli/data/bag/bag_pp_00_eng.arc",
                 "hash_size": 146580,
