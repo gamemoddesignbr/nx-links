@@ -1273,10 +1273,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SSMP/010036B0034E4000.zip",
             "size": "2.75 MB",
             "installed": {
-                "hash_file": "01009AA000FAA000/romfs/Data.rsdk",
-                "hash_size": 579765,
+                "hash_file": "010036B0034E4000/romfs/Archive/mess.nxonnx32.bea",
+                "hash_size": 2971626,
                 "uninstall": {
-                    "path01": "01009AA000FAA000/romfs"
+                    "path01": "010036B0034E4000/romfs"
                 }
             }
         },
