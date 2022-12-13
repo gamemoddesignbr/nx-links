@@ -72,7 +72,7 @@
                 }
             }
         },
-        "Beholder Complete Edition": {
+		"Beholder Complete Edition": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/beholder/0100D1300C1EA000.zip",
             "size": "315 KB",
@@ -204,7 +204,7 @@
                 }
             }
         },
-        "Chrono Cross Radical Dreamers Edition": {
+	"Chrono Cross Radical Dreamers Edition": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ccross/ccross.zip",
             "size": "2.91 MB",
@@ -213,7 +213,7 @@
                 "hash_size": 1851461,
                 "uninstall": {
                     "path01": "0100AC20128AC000/romfs",
-                    "path02": "0100AC20128AC001/romfs"
+					"path02": "0100AC20128AC001/romfs"
                 }
             }
         },
@@ -383,12 +383,12 @@
                 }
             }
         },
-        "Fatal Frame Maiden of The Black Water": {
+		"Fatal Frame Maiden of The Black Water": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffmotw/0100BEB015604000.zip",
             "size": "53.1 MB",
             "installed": {
-                "hash_file": "010043500A17A000/romfs/text/USen/LYRICS.fmsg",                
+                "hash_file": "010043500A17A000/romfs/text/USen/LYRICS.fmsg",				
                 "hash_size": 5056,
                 "uninstall": {
                     "path01": "0100BEB015604000/romfs"
@@ -491,7 +491,7 @@
                 }
             }
         },
-        "Ghosts 'n Goblins Resurrection": {
+		"Ghosts 'n Goblins Resurrection": {
             "enabled": true,
             "link": "https://mega.nz/file/YgJRDDRT#i0X1vHhQsCPyS3QDc2j1OxPg8-yBgNSYA1puvw4anSU",
             "size": "2.86 GB",
@@ -539,7 +539,7 @@
                 }
             }
         },
-        "Iconoclasts": {
+		"Iconoclasts": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/iconoclasts/0100BC60099FE000.zip",
             "size": "202 KB",
@@ -551,9 +551,9 @@
                 }
             }
         },
-        "Isoland": {
+		"Isoland": {
             "enabled": true,
-            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Isoland/010065200D192000.zip",
+			"link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Isoland/010065200D192000.zip",
             "size": "289 KB",
             "installed": {
                 "hash_file": "010065200D192000/romfs/Data/resources.assets",
@@ -996,7 +996,30 @@
                 }
             }
         },
-        "Potata": {
+		"Pokemon Scarlet": {
+            "enabled": false,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSCARLET/0100A3D008C5C000.zip",
+            "size": "32.1 MB",
+               "hash_file": "0100A3D008C5C000/romfs/arc/data.trpfd",
+                "hash_size": 9295960,
+                "uninstall": {
+                    "path01": "0100A3D008C5C000/romfs"
+                }
+            }
+        },
+		"Pokemon Violet": {
+            "enabled": false,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMVIOLET/01008F6008C5E000.zip",
+            "size": "32.1 MB",
+            "installed": {
+                "hash_file": "01008F6008C5E000/romfs/arc/data.trpfd",
+                "hash_size": 9295960,
+                "uninstall": {
+                    "path01": "01008F6008C5E000/romfs"
+                }
+            }
+        },
+		"Potata": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Potata/01005FC010EB2000.zip",
             "size": "82.7 MB",
@@ -1104,7 +1127,7 @@
                 }
             }
         },
-        "Sonic Colors Ultimate": {
+		"Sonic Colors Ultimate": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/soniccorlosultimate/010040E0116B8000.zip",
             "size": "568 KB",
@@ -1116,7 +1139,7 @@
                 }
             }
         },
-        "Sonic Forces": {
+		"Sonic Forces": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/sonicforces/sonicforcesptbr.zip",
             "size": "313 MB",
@@ -1125,16 +1148,16 @@
                 "hash_size": 90699408,
                 "uninstall": {
                     "path01": "01001270012B6000/romfs",
-                    "path02": "01001270012B7001/romfs",
-                    "path03": "01001270012B7002/romfs",
-                    "path04": "01001270012B7003/romfs",
-                    "path05": "01001270012B7004/romfs",
-                    "path06": "01001270012B7005/romfs",
-                    "path07": "01001270012B7006/romfs"
+					"path02": "01001270012B7001/romfs",
+					"path03": "01001270012B7002/romfs",
+					"path04": "01001270012B7003/romfs",
+					"path05": "01001270012B7004/romfs",
+					"path06": "01001270012B7005/romfs",
+					"path07": "01001270012B7006/romfs"
                 }
             }
         },
-        "Sonic Mania Plus": {
+	"Sonic Mania Plus": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Sonic_Mania_Plus/01009AA000FAA000.zip",
             "size": "181 MB",
@@ -1196,7 +1219,7 @@
                 }
             }
         },
-        "Story of Seasons Friends of Mineral Town( Update 1.0.5)": {
+		"Story of Seasons Friends of Mineral Town( Update 1.0.5)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/storyofseasonfomt/0100ED400EEC2000.zip",
             "size": "1.20 MB",
@@ -1648,7 +1671,7 @@
                 }
             }
         },
-        "modifications": {
+		"modifications": {
         "Diablo II Resurrected - Offline Patch (1.0.2.0)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
@@ -1689,7 +1712,7 @@
                 }
             }
         },
-        "Mario + Rabbids Sparks of Hope ( 60 FPS MOD )": {
+	"Mario + Rabbids Sparks of Hope ( 60 FPS MOD )": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/MRSH60FPS/0100317013770000.zip",
             "size": "686 B",
@@ -1749,7 +1772,7 @@
                 }
             }
         },
-        "TMNT: Shredder's Revenge - Color Pack TMNT Turtles in Time": {
+		"TMNT: Shredder's Revenge - Color Pack TMNT Turtles in Time": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/tmnt/0100FE701475A000.zip",
             "size": "7.71 MB",
@@ -1773,7 +1796,7 @@
                 }
             }
         },
-        "Zelda™: BOTW Second Wind Mod": {
+	"Zelda™: BOTW Second Wind Mod": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/zeldasecondwind/second_wind.zip",
             "size": "1.11 GB",
@@ -1782,7 +1805,7 @@
                 "hash_size": 119768,
                 "uninstall": {
                     "path01": "01007EF00011E000",
-                    "path02": "01007EF00011F001"
+					"path02": "01007EF00011F001"
                 }
             }
         }
@@ -1791,17 +1814,17 @@
         "enabled": true,
         "always_show": false,
         "message": "05/08/2022 13:15AM\nBem-vindo ao Atualizador Pacote GameMod (APG)!\n\nNo dia 05 de Agosto de 2022 uma nova versão do GMPACK foi disponibilizada e, de agora em diante, ele é livre de pirataria (piracy free)!\n\nAssim como o Atmosphère, ele não tem arquivos para contornar a segurança do Nintendo Switch™ (como sigpatches, etc.) e sempre foi distribuído gratuitamente. Seu propósito principal é o de somente habilitar o uso de homebrews (“programas caseiros” não-oficiais criados pelos próprios usuários de uma plataforma específica).\nPor favor, consulte o “aviso legal” presente no arquivo “LEIA-ME.txt” dentro do GMPACK ou aperte o botão Y no APG para mais detalhes.\n\nObrigado!"
-    },
+   },
     "CNXPACK-MOTD": {
         "enabled": true,
         "always_show": false,
         "message":"04/11/2022 00:30\nBem-vindo ao CNX Pack Updater!\n\nCompatível com o Firmware 15.0.1 No dia 04 de Novembtro de 2022 uma nova versão do Pacote foi disponibilizada, ele é livre homebrews de pirataria (piracy free)!\n\nLeiam o Changelog, disponível no botão Alterações no CNXPACK.\n\nAssim como o Atmosphère, ele não tem arquivos para contornar a segurança do Nintendo Switch™ e sempre foi distribuído gratuitamente.\n\nSeu propósito principal é o de somente habilitar o uso de homebrews (“programas caseiros” não-oficiais criados pelos próprios usuários de uma plataforma específica).\n\nPor favor, consulte o “aviso legal” presente no arquivo “LEIA-ME.txt” dentro do CNX Pack Updater ou aperte o botão Y no CNX Pack Updater para mais detalhes.\n\nObrigado!"
-    },
-    "SGM-MOTD": {
+	},
+   "SGM-MOTD": {
         "enabled": true,
         "always_show": false,
         "message": "06/05/2022 21:36\nAVISO!\n\nBem-vindo ao pacote SGM!"
-        },
+		},
     "cfws": {
         "GMPACK": {
             "releases": "https://api.github.com/repos/gamemoddesignbr/gmpack/releases/latest"
@@ -1813,10 +1836,10 @@
             "releases": "https://api.github.com/repos/SGMSteel1/sgmpack/releases/latest"
         },
         "OUTROS": { 
-        "releases": "https://api.github.com/repos/gnxswitch/gnxsd/releases/latest"
-        }
+	    "releases": "https://api.github.com/repos/gnxswitch/gnxsd/releases/latest"
+		}
     },
     "firmwares": {
         "releases": "https://api.github.com/repos/AMSNX/NX-Firmwares/releases"
-    }
+		}
 }
