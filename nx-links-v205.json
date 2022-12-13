@@ -1004,7 +1004,7 @@
                 "hash_file": "0100A3D008C5C000/dummy_br.bin",
                 "hash_size": 23,
                 "uninstall": {
-                    "path01": "0100A3D008C5C000"
+                    "path01": "0100A3D008C5C000/romfs"
                 }
             }
         },
@@ -1016,7 +1016,7 @@
                 "hash_file": "0100A3D008C5C000/dummy.bin",
                 "hash_size": 23,
                 "uninstall": {
-                    "path01": "0100A3D008C5C000"
+                    "path01": "0100A3D008C5C000/romfs"
                 }
             }
         },
@@ -1028,7 +1028,7 @@
                 "hash_file": "01008F6008C5E000/dummy_br.bin",
                 "hash_size": 23,
                 "uninstall": {
-                    "path01": "01008F6008C5E000"
+                    "path01": "01008F6008C5E000/romfs"
                 }
             }
         },
@@ -1040,7 +1040,7 @@
                 "hash_file": "01008F6008C5E000/dummy.bin",
                 "hash_size": 23,
                 "uninstall": {
-                    "path01": "01008F6008C5E000"
+                    "path01": "01008F6008C5E000/romfs"
                 }
             }
         },
