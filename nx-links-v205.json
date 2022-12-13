@@ -1670,9 +1670,8 @@
                     "path01": "01002DA013484000/romfs"
                 }
             }
-        }
-    },
-    "modifications": {
+        },
+		"modifications": {
         "Diablo II Resurrected - Offline Patch (1.0.2.0)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
