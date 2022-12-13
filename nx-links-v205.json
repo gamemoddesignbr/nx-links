@@ -997,26 +997,38 @@
             }
         },
 		"Pokemon Scarlet": {
+<<<<<<< HEAD
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSCARLET/0100A3D008C5C000.zip",
             "size": "31.7 MB",
+=======
+            "enabled": false,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases",
+            "size": "24.9 MB",
+>>>>>>> parent of 0be15bf (Update nx-links-v205.json)
             "installed": {
-                "hash_file": "0100A3D008C5C000/romfs/arc/data.trpfd",
-                "hash_size": 9295960,
+                "hash_file": "",
+                "hash_size": 123288,
                 "uninstall": {
-                    "path01": "0100A3D008C5C000/romfs"
+                    "path01": ""
                 }
             }
         },
 		"Pokemon Violet": {
+<<<<<<< HEAD
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMVIOLET/01008F6008C5E000.zip",
             "size": "31.7 MB",
+=======
+            "enabled": false,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/",
+            "size": "24.9 MB",
+>>>>>>> parent of 0be15bf (Update nx-links-v205.json)
             "installed": {
-                "hash_file": "01008F6008C5E000/romfs/arc/data.trpfd",
-                "hash_size": 9295960,
+                "hash_file": "",
+                "hash_size": 123288,
                 "uninstall": {
-                    "path01": "01008F6008C5E000/romfs"
+                    "path01": ""
                 }
             }
         },
@@ -1220,7 +1232,7 @@
                 }
             }
         },
-		"Story of Seasons Friends of Mineral Town(Update 1.0.5)": {
+		"Story of Seasons Friends of Mineral Town( Update 1.0.5)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/storyofseasonfomt/0100ED400EEC2000.zip",
             "size": "1.20 MB",
