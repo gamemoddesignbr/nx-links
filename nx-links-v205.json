@@ -1037,8 +1037,8 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSCARLETGI/01008F6008C5E000.zip",
             "size": "24.9 MB",
             "installed": {
-                "hash_file": "01008F6008C5E000/dummy.bin",
-                "hash_size": 23,
+                "hash_file": "01008F6008C5E000/romfs/appli/data/bag/bag_pp_00_eng.arc",
+                "hash_size": 146580,
                 "uninstall": {
                     "path01": "01008F6008C5E000/romfs"
                 }
