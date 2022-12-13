@@ -1008,7 +1008,7 @@
             }
         },
 		"Pokemon Violet": {
-            "enabled": false
+            "enabled": false,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMVIOLET/01008F6008C5E000.zip",
             "size": "32.1 MB",
             "installed": {
