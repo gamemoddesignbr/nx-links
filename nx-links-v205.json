@@ -996,8 +996,6 @@
                 }
             }
         },
-<<<<<<< HEAD
-=======
 		"Pokemon Scarlet Golpes Traduzidos": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSCARLET/0100A3D008C5C000.zip",
@@ -1046,7 +1044,6 @@
                 }
             }
         },
->>>>>>> parent of d4270ba (Update nx-links-v205.json)
 		"Potata": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Potata/01005FC010EB2000.zip",
