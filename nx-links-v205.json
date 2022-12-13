@@ -1,5 +1,17 @@
 {
     "translations": {
+        "1-2 Switch": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/1-2_Switch/01000320000CC000.zip",
+            "size": "53.7 MB",
+            "installed": {
+                "hash_file": "01000320000CC000/romfs/NX32/EUen/autogen/splash_screen/texture.bin.szs",
+                "hash_size": 1894439,
+                "uninstall": {
+                    "path01": "01000320000CC000/romfs"
+                }
+            }
+        },
         "12 is better than 6": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/12_is_better_than_6/01007F600D1B8000.zip",
