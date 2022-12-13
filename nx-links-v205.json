@@ -997,7 +997,7 @@
             }
         },
 		"Pokemon Scarlet Golpes Traduzidos": {
-            "enabled": false,
+            "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSCARLET/0100A3D008C5C000.zip",
             "size": "31.7 MB",
             "installed": {
@@ -1009,7 +1009,7 @@
             }
         },
 		"Pokemon Scarlet Golpes em Inglês": {
-            "enabled": false,
+            "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMESCARLATGI/0100A3D008C5C000.zip",
             "size": "31.7 MB",
             "installed": {
