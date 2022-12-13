@@ -1013,7 +1013,7 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMESCARLATGI/0100A3D008C5C000.zip",
             "size": "31.7 MB",
             "installed": {
-                "hash_file": "0100A3D008C5Ca000/romfs/appli/data/bag/bag_pp_00_eng.arc",
+                "hash_file": "0100A3D008C5C000/romfs/appli/data/bag/bag_pp_00_eng.arc",
                 "hash_size": 146580,
                 "uninstall": {
                     "path01": "0100A3D008C5C000/romfs"
