@@ -1299,7 +1299,7 @@
             "size": "2.75 MB",
             "installed": {
                 "hash_file": "010036B0034E4000/romfs/Archive/mess.nxonnx32.bea",
-                "hash_size": 2971626,
+                "hash_size": 2973696,
                 "uninstall": {
                     "path01": "010036B0034E4000/romfs"
                 }
