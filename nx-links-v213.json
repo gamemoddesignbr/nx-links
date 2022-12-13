@@ -1,5 +1,17 @@
 {
     "translations": {
+        "1-2 Switch": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/1-2_Switch/01000320000CC000.zip",
+            "size": "53.7 MB",
+            "installed": {
+                "hash_file": "01000320000CC000/romfs/NX32/EUen/autogen/splash_screen/texture.bin.szs",
+                "hash_size": 1894439,
+                "uninstall": {
+                    "path01": "01000320000CC000/romfs"
+                }
+            }
+        },
         "12 is better than 6": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/12_is_better_than_6/01007F600D1B8000.zip",
@@ -984,6 +996,30 @@
                 }
             }
         },
+        "Pokemon Scarlet": {
+            "enabled": false,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSCARLET/0100A3D008C5C000.zip",
+            "size": "32.1 MB",
+            "installed": {
+               "hash_file": "0100A3D008C5C000/romfs/arc/data.trpfd",
+                "hash_size": 9295960,
+                "uninstall": {
+                    "path01": "0100A3D008C5C000/romfs"
+                }
+            }
+        },
+        "Pokemon Violet": {
+            "enabled": false,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMVIOLET/01008F6008C5E000.zip",
+            "size": "32.1 MB",
+            "installed": {
+                "hash_file": "01008F6008C5E000/romfs/arc/data.trpfd",
+                "hash_size": 9295960,
+                "uninstall": {
+                    "path01": "01008F6008C5E000/romfs"
+                }
+            }
+        },
         "Potata": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Potata/01005FC010EB2000.zip",
@@ -1635,8 +1671,9 @@
                     "path01": "01002DA013484000/romfs"
                 }
             }
-        },
-        "modifications": {
+        }
+    },
+    "modifications": {
         "Diablo II Resurrected - Offline Patch (1.0.2.0)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
@@ -1789,7 +1826,7 @@
         "enabled": true,
         "always_show": false,
         "message": "06/05/2022 21:36\nAVISO!\n\nBem-vindo ao pacote SGM!"
-        },
+    },
     "cfws": {
         "GMPACK": {
             "releases": "https://api.github.com/repos/gamemoddesignbr/gmpack/releases/latest"
@@ -1800,7 +1837,7 @@
         "SGM": {
             "releases": "https://api.github.com/repos/SGMSteel1/sgmpack/releases/latest"
         },
-        "OUTROS": { 
+        "OUTROS": {
         "releases": "https://api.github.com/repos/gnxswitch/gnxsd/releases/latest"
         }
     },
