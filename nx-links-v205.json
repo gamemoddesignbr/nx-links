@@ -996,10 +996,13 @@
                 }
             }
         },
+<<<<<<< HEAD
 		"Pokemon Scarlet Golpes Traduzidos": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSCARLET/0100A3D008C5C000.zip",
             "size": "31.7 MB",
+=======
+>>>>>>> parent of 0be15bf (Update nx-links-v205.json)
 		"Pokemon Scarlet": {
             "enabled": false,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases",
@@ -1007,6 +1010,7 @@
             "installed": {
                 "hash_file": "",
                 "hash_size": 123288,
+<<<<<<< HEAD
                 "uninstall": {
                     "path01": ""
                 }
@@ -1019,15 +1023,20 @@
             "installed": {
                 "hash_file": "0100A3D008C5C000/romfs/appli/data/bag/bag_pp_00_eng.arc",
                 "hash_size": 146580,
+=======
+>>>>>>> parent of 0be15bf (Update nx-links-v205.json)
                 "uninstall": {
-                    "path01": "0100A3D008C5C000/romfs"
+                    "path01": ""
                 }
             }
         },
+<<<<<<< HEAD
 		"Pokemon Violet Golpes Traduzidos": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMVIOLET/01008F6008C5E000.zip",
             "size": "31.7 MB",
+=======
+>>>>>>> parent of 0be15bf (Update nx-links-v205.json)
 		"Pokemon Violet": {
             "enabled": false,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/",
@@ -1035,6 +1044,7 @@
             "installed": {
                 "hash_file": "",
                 "hash_size": 123288,
+<<<<<<< HEAD
                 "uninstall": {
                     "path01": ""
                 }
@@ -1047,8 +1057,10 @@
             "installed": {
                 "hash_file": "01008F6008C5E000/romfs/appli/data/bag/bag_pp_00_eng.arc",
                 "hash_size": 146580,
+=======
+>>>>>>> parent of 0be15bf (Update nx-links-v205.json)
                 "uninstall": {
-                    "path01": "01008F6008C5E000/romfs"
+                    "path01": ""
                 }
             }
         },
