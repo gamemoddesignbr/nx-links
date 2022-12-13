@@ -996,25 +996,49 @@
                 }
             }
         },
-        "Pokemon Scarlet": {
+        "Pokemon Scarlet Golpes em PTBR": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSCARLET/0100A3D008C5C000.zip",
             "size": "32.1 MB",
             "installed": {
-               "hash_file": "0100A3D008C5C000/romfs/appli/data/bag/bag_pp_00_eng.arc",
-                "hash_size": 147456,
+               "hash_file": "0100A3D008C5C000/romfs/dummy.bin",
+                "hash_size": 23,
                 "uninstall": {
                     "path01": "0100A3D008C5C000/romfs"
                 }
             }
         },
-        "Pokemon Violet": {
+        "Pokemon Violet Golpes em PTBR": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMVIOLET/01008F6008C5E000.zip",
             "size": "32.1 MB",
             "installed": {
-                "hash_file": "01008F6008C5E000/romfs/appli/data/bag/bag_pp_00_eng.arc",
-                "hash_size": 147456,
+                "hash_file": "01008F6008C5E000/romfs/dummy.bin",
+                "hash_size": 23,
+                "uninstall": {
+                    "path01": "01008F6008C5E000/romfs"
+                }
+            }
+        },
+		"Pokemon Scarlet Golpes em Ingles": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMESCARLATGI/0100A3D008C5C000_US.zip",
+            "size": "32.1 MB",
+            "installed": {
+               "hash_file": "0100A3D008C5C000/romfs/dummy_br.bin",
+                "hash_size": 23,
+                "uninstall": {
+                    "path01": "0100A3D008C5C000/romfs"
+                }
+            }
+        },
+        "Pokemon Violet Golpes em Ingles": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMVIOLETGI/01008F6008C5E000_US.zip",
+            "size": "32.1 MB",
+            "installed": {
+                "hash_file": "01008F6008C5E000/romfs/dummy_br.bin",
+                "hash_size": 23,
                 "uninstall": {
                     "path01": "01008F6008C5E000/romfs"
                 }
