@@ -997,7 +997,7 @@
             }
         },
         "Pokemon Scarlet": {
-            "enabled": false,
+            "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSCARLET/0100A3D008C5C000.zip",
             "size": "32.1 MB",
             "installed": {
@@ -1009,7 +1009,7 @@
             }
         },
         "Pokemon Violet": {
-            "enabled": false,
+            "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMVIOLET/01008F6008C5E000.zip",
             "size": "32.1 MB",
             "installed": {
