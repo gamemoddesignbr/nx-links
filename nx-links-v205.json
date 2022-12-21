@@ -1657,28 +1657,27 @@
                 }
             }
         },
-        "Zelda™: Breath of The Wild": {
+        "Zelda™: Breath of The Wild - Legenda": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/01007EF00011E000.zip",
-            "size": "6.39 MB",
+            "size": "6.37 MB",
             "installed": {
-                "hash_file": "01007EF00011E000/romfs/Font/Font_EU.sbfarc",
-                "hash_size": 3083556,
+                "hash_file": "01007EF00011E000/romfs/legenda.bin",
+                "hash_size": 32,
                 "uninstall": {
                     "path01": "01007EF00011E000/romfs"
                 }
             }
         },
-        "Zelda™: Breath of The Wild - Leg+Dub": {
+        "Zelda™: Breath of The Wild - Dublagem": {
             "enabled": true,
-            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/dublagem_legenda.zip",
-            "size": "107 MB",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/dublagem.zip",
+            "size": "72 MB",
             "installed": {
-                "hash_file": "010022400BE5A000/romfs/Voic/EUru/Stream_Demo600_0/Demo600_0_000.bfstm",
-                "hash_size": 1092032,
+                "hash_file": "01007EF00011E000/romfs/dublagem.bin",
+                "hash_size": 33,
                 "uninstall": {
-                    "path01": "01007EF00011E000",
-                    "path02": "01007EF00011F001"
+                    "path01": "01007EF00011E000"                    
                 }
             }
         },
