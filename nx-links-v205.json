@@ -204,6 +204,18 @@
                 }
             }
         },
+		"Chained Echoes": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/chainedechoes/0100C510166F0000.zip",
+            "size": "6.76 MB",
+            "installed": {
+                "hash_file": "0100C510166F0000/romfs/Data/StreamingAssets/bansheegz_database.bytes",
+                "hash_size": 1782656,
+                "uninstall": {
+                    "path01": "0100C510166F0000/romfs"
+                }
+            }
+        },
         "Chrono Cross Radical Dreamers Edition": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ccross/ccross.zip",
@@ -260,6 +272,18 @@
             "installed": {
                 "uninstall": {
                     "path01": "010083A00BF6C000"
+                }
+            }
+        },
+		"DC Super Hero Girls": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/dcsuperherogirls/0100F8F00C4F2000.zip",
+            "size": "332 KB",
+            "installed": {
+                "hash_file": "0100F8F00C4F2000/romfs/Archive/message.nx.enUS.bea",
+                "hash_size": 344931,
+                "uninstall": {
+                    "path01": "0100F8F00C4F2000/romfs"
                 }
             }
         },
@@ -524,6 +548,18 @@
                 "hash_size": 3134827,
                 "uninstall": {
                     "path01": "0100B0500FE4E000/romfs"
+                }
+            }
+        },
+		"Hard West": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/hardwest/0100ECE00D13E000.zip",
+            "size": "270 KB",
+            "installed": {
+                "hash_file": "0100ECE00D13E000/romfs/Data/StreamingAssets/Data/dialogs.tsv",
+                "hash_size": 65341,
+                "uninstall": {
+                    "path01": "0100ECE00D13E000/romfs"
                 }
             }
         },
@@ -1104,6 +1140,18 @@
                 }
             }
         },
+		"Signalis": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/signalis/0100307018934000.zip",
+            "size": "46.8 MB",
+            "installed": {
+                "hash_file": "0100307018934000/romfs/Data/resources.assets",
+                "hash_size": 80809840,
+                "uninstall": {
+                    "path01": "0100307018934000/romfs"
+                }
+            }
+        },
         "Shantae Half Genie": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Shantae_Half_Genie/01006A200936C000.zip",
@@ -1375,6 +1423,18 @@
                 "hash_size": 249825,
                 "uninstall": {
                     "path01": "010028C003FD6000/romfs"
+                }
+            }
+        },
+		"The Diofield Chronicles": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/diofieldchro/010032B015D66000.zip",
+            "size": "27.5 MB",
+            "installed": {
+                "hash_file": "010032B015D66000/romfs/DFC/Content/Paks/DFC-Switch_1_TRPKG_P.pak",
+                "hash_size": 30572879,
+                "uninstall": {
+                    "path01": "010032B015D66000/romfs"
                 }
             }
         },
