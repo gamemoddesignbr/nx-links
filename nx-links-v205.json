@@ -1784,7 +1784,7 @@
         "GBA ONLINE 97 ROMS ( 1.0.0 )": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/gbaonline/010012F017576000.zip",
-            "size": "16.1 MB",
+            "size": "493 MB",
             "installed": {
                 "hash_file": "010012F017576000/romfs/bootapp/resources/strings/en/strings.lng",
                 "hash_size": 93470,
