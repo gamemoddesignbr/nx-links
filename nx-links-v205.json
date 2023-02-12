@@ -881,8 +881,8 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/omori/010014E017B14000.zip",
             "size": "108 MB",
             "installed": {
-                "hash_file": "010014E017B14000/romfs/fonts/OMORI_GAME.ttf",
-                "hash_size": 36804,
+                "hash_file": "010014E017B14000/romfs/Assets.dat",
+                "hash_size": 757760,
                 "uninstall": {
                     "path01": "010014E017B14000/romfs"
                 }
