@@ -1769,7 +1769,7 @@
         }
     },
     "modifications": {
-        "Diablo II Resurrected - Offline Patch (1.0.2.0)": {
+		"Diablo II Resurrected - Offline Patch (1.0.2.0)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
             "size": "16.1 MB",
@@ -1778,6 +1778,18 @@
                 "hash_size": 16941316,
                 "uninstall": {
                     "path01": "0100726014352000/exefs"
+                }
+            }
+        },
+        "GBA ONLINE 97 ROMS ( 1.0.0 )": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/gbaonline/010012F017576000.zip",
+            "size": "16.1 MB",
+            "installed": {
+                "hash_file": "010012F017576000/romfs/bootapp/resources/strings/en/strings.lng",
+                "hash_size": 93470,
+                "uninstall": {
+                    "path01": "010012F017576000/romfs"
                 }
             }
         },
