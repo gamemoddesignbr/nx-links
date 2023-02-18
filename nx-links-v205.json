@@ -1781,15 +1781,27 @@
                 }
             }
         },
-        "GBA ONLINE 97 ROMS ( 1.0.0 )": {
+        "GBA ONLINE 200 ROMS ( 1.0.0 )": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/gbaonline/010012F017576000.zip",
-            "size": "493 MB",
+            "size": "1.06 GB",
             "installed": {
                 "hash_file": "010012F017576000/romfs/bootapp/resources/strings/en/strings.lng",
-                "hash_size": 93470,
+                "hash_size": 131699,
                 "uninstall": {
                     "path01": "010012F017576000/romfs"
+                }
+            }
+        },
+		"GBCOLOR ONLINE 137 ROMS ( 1.0.0 )": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/gbco/0100C62011050000.zip",
+            "size": "101 MB",
+            "installed": {
+                "hash_file": "0100C62011050000/romfs/bootapp/resources/strings/ptbr/strings.lng",
+                "hash_size": 158589,
+                "uninstall": {
+                    "path01": "0100C62011050000/romfs"
                 }
             }
         },
