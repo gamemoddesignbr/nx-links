@@ -204,6 +204,18 @@
                 }
             }
         },
+        "Chained Echoes": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/chainedechoes/0100C510166F0000.zip",
+            "size": "6.76 MB",
+            "installed": {
+                "hash_file": "0100C510166F0000/romfs/Data/StreamingAssets/bansheegz_database.bytes",
+                "hash_size": 1782656,
+                "uninstall": {
+                    "path01": "0100C510166F0000/romfs"
+                }
+            }
+        },
         "Chrono Cross Radical Dreamers Edition": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ccross/ccross.zip",
@@ -260,6 +272,18 @@
             "installed": {
                 "uninstall": {
                     "path01": "010083A00BF6C000"
+                }
+            }
+        },
+        "DC Super Hero Girls": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/dcsuperherogirls/0100F8F00C4F2000.zip",
+            "size": "332 KB",
+            "installed": {
+                "hash_file": "0100F8F00C4F2000/romfs/Archive/message.nx.enUS.bea",
+                "hash_size": 344931,
+                "uninstall": {
+                    "path01": "0100F8F00C4F2000/romfs"
                 }
             }
         },
@@ -524,6 +548,18 @@
                 "hash_size": 3134827,
                 "uninstall": {
                     "path01": "0100B0500FE4E000/romfs"
+                }
+            }
+        },
+        "Hard West": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/hardwest/0100ECE00D13E000.zip",
+            "size": "270 KB",
+            "installed": {
+                "hash_file": "0100ECE00D13E000/romfs/Data/StreamingAssets/Data/dialogs.tsv",
+                "hash_size": 65341,
+                "uninstall": {
+                    "path01": "0100ECE00D13E000/romfs"
                 }
             }
         },
@@ -840,7 +876,7 @@
                 }
             }
         },
-		"Omori": {
+        "Omori": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/omori/010014E017B14000.zip",
             "size": "108 MB",
@@ -1008,12 +1044,36 @@
                 }
             }
         },
+        "Pokemon Scarlet Golpes em PTBR": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSCARLET/0100A3D008C5C000.zip",
+            "size": "32.1 MB",
+            "installed": {
+               "hash_file": "0100A3D008C5C000/romfs/dummy.bin",
+                "hash_size": 23,
+                "uninstall": {
+                    "path01": "0100A3D008C5C000/romfs"
+                }
+            }
+        },
+        "Pokemon Violet Golpes em PTBR": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMVIOLET/01008F6008C5E000.zip",
+            "size": "32.1 MB",
+            "installed": {
+                "hash_file": "01008F6008C5E000/romfs/dummy.bin",
+                "hash_size": 23,
+                "uninstall": {
+                    "path01": "01008F6008C5E000/romfs"
+                }
+            }
+        },
         "Pokemon Scarlet Golpes em Ingles": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMESCARLATGI/0100A3D008C5C000_US.zip",
             "size": "32.1 MB",
             "installed": {
-                "hash_file": "0100A3D008C5C000/romfs/dummy_br.bin",
+               "hash_file": "0100A3D008C5C000/romfs/dummy_br.bin",
                 "hash_size": 23,
                 "uninstall": {
                     "path01": "0100A3D008C5C000/romfs"
@@ -1027,31 +1087,6 @@
             "installed": {
                 "hash_file": "01008F6008C5E000/romfs/dummy_br.bin",
                 "hash_size": 23,
-                "uninstall": {
-                    "path01": "01008F6008C5E000/romfs"
-                }
-            }
-        },
-
-        "Pokemon Scarlet Golpes em PTBR": {
-            "enabled": true,
-            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSCARLET/0100A3D008C5C000.zip",
-            "size": "32.1 MB",
-            "installed": {
-                "hash_file": "0100A3D008C5C000/romfs/appli/data/bag/bag_pp_00_eng.arc",
-                "hash_size": 147456,
-                "uninstall": {
-                    "path01": "0100A3D008C5C000/romfs"
-                }
-            }
-        },
-        "Pokemon Violet Golpes em PTBR": {
-            "enabled": true,
-            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMVIOLET/01008F6008C5E000.zip",
-            "size": "32.1 MB",
-            "installed": {
-                "hash_file": "01008F6008C5E000/romfs/appli/data/bag/bag_pp_00_eng.arc",
-                "hash_size": 147456,
                 "uninstall": {
                     "path01": "01008F6008C5E000/romfs"
                 }
@@ -1102,6 +1137,18 @@
                 "hash_size": 207758,
                 "uninstall": {
                     "path01": "0100394011C30000/romfs"
+                }
+            }
+        },
+        "Signalis": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/signalis/0100307018934000.zip",
+            "size": "46.8 MB",
+            "installed": {
+                "hash_file": "0100307018934000/romfs/Data/resources.assets",
+                "hash_size": 80809840,
+                "uninstall": {
+                    "path01": "0100307018934000/romfs"
                 }
             }
         },
@@ -1257,7 +1304,7 @@
                 }
             }
         },
-        "Story of Seasons Friends of Mineral Town( Update 1.0.5)": {
+        "Story of Seasons Friends of Mineral Town(Update 1.0.5)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/storyofseasonfomt/0100ED400EEC2000.zip",
             "size": "1.20 MB",
@@ -1305,13 +1352,13 @@
                 }
             }
         },
-        "Super Mario Party": {
+        "Super Mario Party (Versão 1.0.0 somente)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SSMP/010036B0034E4000.zip",
             "size": "2.75 MB",
             "installed": {
                 "hash_file": "010036B0034E4000/romfs/Archive/mess.nxonnx32.bea",
-                "hash_size": 2973696,
+                "hash_size": 2971626,
                 "uninstall": {
                     "path01": "010036B0034E4000/romfs"
                 }
@@ -1376,6 +1423,18 @@
                 "hash_size": 249825,
                 "uninstall": {
                     "path01": "010028C003FD6000/romfs"
+                }
+            }
+        },
+        "The Diofield Chronicles": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/diofieldchro/010032B015D66000.zip",
+            "size": "27.5 MB",
+            "installed": {
+                "hash_file": "010032B015D66000/romfs/DFC/Content/Paks/DFC-Switch_1_TRPKG_P.pak",
+                "hash_size": 30572879,
+                "uninstall": {
+                    "path01": "010032B015D66000/romfs"
                 }
             }
         },
@@ -1658,28 +1717,27 @@
                 }
             }
         },
-        "Zelda™: Breath of The Wild": {
+        "Zelda™: Breath of The Wild - Legenda": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/01007EF00011E000.zip",
-            "size": "6.39 MB",
+            "size": "6.37 MB",
             "installed": {
-                "hash_file": "01007EF00011E000/romfs/Font/Font_EU.sbfarc",
-                "hash_size": 3083556,
+                "hash_file": "01007EF00011E000/romfs/legenda.bin",
+                "hash_size": 32,
                 "uninstall": {
                     "path01": "01007EF00011E000/romfs"
                 }
             }
         },
-        "Zelda™: Breath of The Wild - Leg+Dub": {
+        "Zelda™: Breath of The Wild - Dublagem": {
             "enabled": true,
-            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/dublagem_legenda.zip",
-            "size": "107 MB",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/dublagem.zip",
+            "size": "72 MB",
             "installed": {
-                "hash_file": "010022400BE5A000/romfs/Voic/EUru/Stream_Demo600_0/Demo600_0_000.bfstm",
-                "hash_size": 1092032,
+                "hash_file": "01007EF00011E000/romfs/dublagem.bin",
+                "hash_size": 33,
                 "uninstall": {
-                    "path01": "01007EF00011E000",
-                    "path02": "01007EF00011F001"
+                    "path01": "01007EF00011E000"                    
                 }
             }
         },
@@ -1711,7 +1769,7 @@
         }
     },
     "modifications": {
-		"Diablo II Resurrected - Offline Patch (1.0.2.0)": {
+        "Diablo II Resurrected - Offline Patch (1.0.2.0)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
             "size": "16.1 MB",
@@ -1723,7 +1781,7 @@
                 }
             }
         },
-        "GBA ONLINE 200 ROMS ( 1.0.0 )": {
+        "GBA ONLINE 200 ROMS (1.0.0)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/gbaonline/010012F017576000.zip",
             "size": "1.06 GB",
@@ -1735,7 +1793,7 @@
                 }
             }
         },
-		"GBCOLOR ONLINE 137 ROMS ( 1.0.0 )": {
+        "GBCOLOR ONLINE 137 ROMS (1.0.0)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/gbco/0100C62011050000.zip",
             "size": "101 MB",
@@ -1747,7 +1805,7 @@
                 }
             }
         },
-        "Nintendo 64 Online ( Update 2.8.0 )": {
+        "Nintendo 64 Online (Update 2.8.0)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/n64on/0100C9A00ECE6000.zip",
             "size": "1.08 GB",
@@ -1762,7 +1820,7 @@
                 }
             }
         },
-        "Nintendo 64 Online ( Fullscreen Mod )": {
+        "Nintendo 64 Online (Fullscreen Mod)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/n64fullscreen/0100C9A00ECE6000_FULLSCREEN.zip",
             "size": "38.2 KB",
@@ -1775,7 +1833,7 @@
                 }
             }
         },
-        "Mario + Rabbids Sparks of Hope ( 60 FPS MOD )": {
+        "Mario + Rabbids Sparks of Hope (60 FPS MOD)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/MRSH60FPS/0100317013770000.zip",
             "size": "686 B",
