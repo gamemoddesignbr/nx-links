@@ -840,6 +840,18 @@
                 }
             }
         },
+		"NieR Automata The End of YoRHa Edition": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/nier/0100b8e016f76000.zip",
+            "size": "53 KB",
+            "installed": {
+                "hash_file": "0100b8e016f76000/romfs/data019.cpk",
+                "hash_size": 603976,
+                "uninstall": {
+                    "path01": "0100b8e016f76000/romfs"
+                }
+            }
+        },
         "OctoDad": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/OctoDad/0100CAB006F54000.zip",
@@ -921,6 +933,18 @@
                 "hash_size": 563626,
                 "uninstall": {
                     "path01": "0100A3900C3E2000/romfs"
+                }
+            }
+        },
+		"Persona 5 Royal": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/persona5/01005CA01580E000.zip",
+            "size": "154 MB",
+            "installed": {
+                "hash_file": "01005CA01580E000/romfs/PATCH1.CPK",
+                "hash_size": 161585352,
+                "uninstall": {
+                    "path01": "01005CA01580E000/romfs"
                 }
             }
         },
