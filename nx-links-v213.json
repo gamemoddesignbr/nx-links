@@ -1881,6 +1881,18 @@
                 }
             }
         },
+		"Mega Drive 145 Roms": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/genesis/0100B3C014BDA000.zip",
+            "size": "163 MB",
+            "installed": {
+                "hash_file": "0100B3C014BDA000/romfs/bootapp/resources/strings/en/strings.lng",
+                "hash_size": 124345,
+                "uninstall": {
+                    "path01": "0100B3C014BDA000/romfs"
+                }
+            }
+        },
         "Metroid Dread Easy Mode": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/metroidprimeeasy/010093801237C000.zip",
