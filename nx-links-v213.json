@@ -659,6 +659,18 @@
                 }
             }
         },
+		"Lost in Random": {
+            "enabled": false,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/lostinrandom/01005FE01291A000.zip",
+            "size": "4.28 MB",
+            "installed": {
+                "hash_file": "01005FE01291A000/romfs/Data/resources.assets",
+                "hash_size": 12200592,
+                "uninstall": {
+                    "path01": "01005FE01291A000/romfs"
+                }
+            }
+        },
         "Luigi's Mansion 3": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/luigis3/Luigis_Mansion3.zip",
@@ -1531,6 +1543,18 @@
                 "hash_size": 65848090,
                 "uninstall": {
                     "path01": "0100CC80140F8000/romfs"
+                }
+            }
+        },
+		"Trials of Mana": {
+            "enabled": false,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/trialsofmana/0100d7800e9e0000.zip",
+            "size": "184 KB",
+            "installed": {
+                "hash_file": "0100d7800e9e0000/romfs/Trials of Mana/Content/Paks/Trials of Mana-Switch_1_TPKG_P.pak",
+                "hash_size": 40064691,
+                "uninstall": {
+                    "path01": "0100d7800e9e0000/romfs"
                 }
             }
         },    
