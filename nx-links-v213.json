@@ -660,7 +660,7 @@
             }
         },
 		"Lost in Random": {
-            "enabled": false,
+            "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/lostinrandom/01005FE01291A000.zip",
             "size": "4.28 MB",
             "installed": {
@@ -1547,7 +1547,7 @@
             }
         },
 		"Trials of Mana": {
-            "enabled": false,
+            "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/trialsofmana/0100d7800e9e0000.zip",
             "size": "37 MB",
             "installed": {
