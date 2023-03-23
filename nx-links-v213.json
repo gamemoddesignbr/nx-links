@@ -1986,7 +1986,7 @@
         "GMPACK": {
             "releases": "https://api.github.com/repos/gamemoddesignbr/gmpack/releases/latest"
         },
-        "CNXPACK": {
+        "CNX": {
             "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest"
         },
         "SGM": {
