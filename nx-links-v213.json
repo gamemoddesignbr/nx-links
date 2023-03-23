@@ -1989,9 +1989,6 @@
         "CNX": {
             "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest"
         },
-        "CNX": {
-            "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest"
-        },
         "SGM": {
             "releases": "https://api.github.com/repos/SGMSteel1/sgmpack/releases/latest"
         },
