@@ -659,7 +659,7 @@
                 }
             }
         },
-		"Lost in Random": {
+        "Lost in Random": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/lostinrandom/01005FE01291A000.zip",
             "size": "4.28 MB",
@@ -852,7 +852,7 @@
                 }
             }
         },
-		"NieR Automata The End of YoRHa Edition": {
+        "NieR Automata The End of YoRHa Edition": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/nier/0100b8e016f76000.zip",
             "size": "53 KB",
@@ -948,7 +948,7 @@
                 }
             }
         },
-		"Persona 5 Royal": {
+        "Persona 5 Royal": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/persona5/01005CA01580E000.zip",
             "size": "154 MB",
@@ -1546,7 +1546,7 @@
                 }
             }
         },
-		"Trials of Mana": {
+        "Trials of Mana": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/trialsofmana/0100d7800e9e0000.zip",
             "size": "37 MB",
@@ -1881,7 +1881,7 @@
                 }
             }
         },
-		"Mega Drive 145 Roms": {
+        "Mega Drive 145 Roms": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/genesis/0100B3C014BDA000.zip",
             "size": "163 MB",
@@ -1985,6 +1985,9 @@
     "cfws": {
         "GMPACK": {
             "releases": "https://api.github.com/repos/gamemoddesignbr/gmpack/releases/latest"
+        },
+        "CNX": {
+            "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest"
         },
         "CNX": {
             "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest"
