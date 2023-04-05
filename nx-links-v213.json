@@ -229,6 +229,18 @@
                 }
             }
         },
+		"Crisis Core Final Fantasy VII Reunion": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crisiscore/01004BC0166CC000.zip",
+            "size": "151 MB",
+            "installed": {
+                "hash_file": "01004BC0166CC000/romfs/CCFF7R/Content/Paks/pakchunk8-Switch_TRPKG_1.0_P.pak",
+                "hash_size": 159715490,
+                "uninstall": {
+                    "path01": "01004BC0166CC000/romfs"
+                }
+            }
+        },
         "Crysis 2 Remastered": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crysis2/0100582010AE0000.zip",
@@ -954,7 +966,7 @@
             "size": "154 MB",
             "installed": {
                 "hash_file": "01005CA01580E000/romfs/PATCH1.CPK",
-                "hash_size": 161585352,
+                "hash_size": 188458544,
                 "uninstall": {
                     "path01": "01005CA01580E000/romfs"
                 }
@@ -1681,6 +1693,18 @@
                 }
             }
         },
+		"Windbound": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/windbound/010044000f7f2000.zip",
+            "size": "5.05 MB",
+            "installed": {
+                "hash_file": "010044000F7F2000/romfs/Data/resources.assets",
+                "hash_size": 17214364,
+                "uninstall": {
+                    "path01": "010044000F7F2000/romfs"
+                }
+            }
+        },
         "Yester Morrow": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/YesterMorrow/010076B0101A0000.zip",
@@ -1817,13 +1841,13 @@
                 }
             }
         },
-        "GBCOLOR ONLINE 137 ROMS (1.0.0)": {
+        "GBCOLOR ONLINE 137 ROMS (1.1.0)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/gbco/0100C62011050000.zip",
-            "size": "101 MB",
+            "size": "160 MB",
             "installed": {
                 "hash_file": "0100C62011050000/romfs/bootapp/resources/strings/ptbr/strings.lng",
-                "hash_size": 158589,
+                "hash_size": 225685,
                 "uninstall": {
                     "path01": "0100C62011050000/romfs"
                 }
@@ -1901,7 +1925,7 @@
                 "hash_file": "010093801237C000/romfs/config.ini",
                 "hash_size": 87238,
                 "uninstall": {
-                    "path01": "01006BB00C6F0000/romfs/config.ini"
+                    "path01": "010093801237C000/romfs/config.ini"
                 }
             }
         },
@@ -1913,9 +1937,7 @@
                 "hash_file": "01006BB00C6F0000/romfs/regionEU/EUen/message/Glossary.msbt",
                 "hash_size": 18224,
                 "uninstall": {
-                    "path01": "01006BB00C6F0000/romfs",
-                    "path02": "01007EF00011E000/romfs",
-                    "path03": "01008D300C50C000/romfs"
+                    "path01": "01006BB00C6F0000/romfs"                    
                 }
             }
         },
@@ -1975,7 +1997,7 @@
     "CNXPACK-MOTD": {
         "enabled": true,
         "always_show": false,
-        "message":"23/02/2023 12:00\nBem-vindo ao CNX Pack Updater!\n\nCompatível com o Firmware 16.0.0 No dia 20 de Fevereiro de 2023 uma nova versão do Pacote foi disponibilizada, ele é livre homebrews de pirataria (piracy free)!\n\nLeiam o Changelog, disponível no botão Alterações no CNXPACK.\n\nAssim como o Atmosphère, ele não tem arquivos para contornar a segurança do Nintendo Switch™ e sempre foi distribuído gratuitamente.\n\nSeu propósito principal é o de somente habilitar o uso de homebrews (“programas caseiros” não-oficiais criados pelos próprios usuários de uma plataforma específica).\n\nPor favor, consulte o “aviso legal” presente no arquivo “LEIA-ME.txt” dentro do CNX Pack Updater ou aperte o botão Y no CNX Pack Updater para mais detalhes.\n\nObrigado!"
+        "message":"04/04/2023 22:15\nBem-vindo ao CNX Pack Updater!\n\nCompatível com o Firmware 16.0.1 No dia 22 de Março de 2023 uma nova versão do Pacote foi disponibilizada, ele é livre homebrews de pirataria (piracy free)!\n\nLeiam o Changelog, disponível no botão Alterações no CNXPACK.\n\nAssim como o Atmosphère, ele não tem arquivos para contornar a segurança do Nintendo Switch™ e sempre foi distribuído gratuitamente.\n\nSeu propósito principal é o de somente habilitar o uso de homebrews (“programas caseiros” não-oficiais criados pelos próprios usuários de uma plataforma específica).\n\nPor favor, consulte o “aviso legal” presente no arquivo “LEIA-ME.txt” dentro do CNX Pack Updater ou aperte o botão Y no CNX Pack Updater para mais detalhes.\n\nObrigado!"
     },
     "SGM-MOTD": {
         "enabled": true,
