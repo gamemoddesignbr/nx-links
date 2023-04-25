@@ -1681,6 +1681,19 @@
                 }
             }
         },
+		"Xenoblade Chronicles 3": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/xenoblade3/010074F013262000.zip",
+            "size": "1.19 MB",
+            "installed": {
+                "hash_file": "010074F013262000/romfs/bdat/gb/game/quest.bdat",
+                "hash_size": 99488,
+                "uninstall": {
+                    "path01": "010074F013262000/romfs",
+					"path02": "010074F013262000/exefs"
+                }
+            }
+        },
         "Xenoblade Chronicles Definitive Edition": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/xenobladeDE/0100FF500E34A000.zip",
@@ -1997,7 +2010,7 @@
     "CNXPACK-MOTD": {
         "enabled": true,
         "always_show": false,
-        "message":"04/04/2023 22:15\nBem-vindo ao CNX Pack Updater!\n\nCompatível com o Firmware 16.0.1 No dia 22 de Março de 2023 uma nova versão do Pacote foi disponibilizada, ele é livre homebrews de pirataria (piracy free)!\n\nLeiam o Changelog, disponível no botão Alterações no CNXPACK.\n\nAssim como o Atmosphère, ele não tem arquivos para contornar a segurança do Nintendo Switch™ e sempre foi distribuído gratuitamente.\n\nSeu propósito principal é o de somente habilitar o uso de homebrews (“programas caseiros” não-oficiais criados pelos próprios usuários de uma plataforma específica).\n\nPor favor, consulte o “aviso legal” presente no arquivo “LEIA-ME.txt” dentro do CNX Pack Updater ou aperte o botão Y no CNX Pack Updater para mais detalhes.\n\nObrigado!"
+        "message":"04/04/2023 22:15\nBem-vindo ao CNX Pack Updater!\n\nCompatível com o Firmware 16.0.2 No dia 22 de Março de 2023 uma nova versão do Pacote foi disponibilizada, ele é livre homebrews de pirataria (piracy free)!\n\nLeiam o Changelog, disponível no botão Alterações no CNXPACK.\n\nAssim como o Atmosphère, ele não tem arquivos para contornar a segurança do Nintendo Switch™ e sempre foi distribuído gratuitamente.\n\nSeu propósito principal é o de somente habilitar o uso de homebrews (“programas caseiros” não-oficiais criados pelos próprios usuários de uma plataforma específica).\n\nPor favor, consulte o “aviso legal” presente no arquivo “LEIA-ME.txt” dentro do CNX Pack Updater ou aperte o botão Y no CNX Pack Updater para mais detalhes.\n\nObrigado!"
     },
     "SGM-MOTD": {
         "enabled": true,
