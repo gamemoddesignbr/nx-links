@@ -1092,25 +1092,25 @@
                 }
             }
         },
-        "Pokemon Scarlet ( Update 1.2.0 )": {
+        "Pokemon Scarlet ( Update 1.3.0 )": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMESCARLATGI/0100A3D008C5C000.zip",
             "size": "32.1 MB",
             "installed": {
-               "hash_file": "0100A3D008C5C000/rromfs/arc/data.trpfd",
-                "hash_size": 9347288,
+               "hash_file": "0100A3D008C5C000/romfs/arc/data.trpfd",
+                "hash_size": 9347712,
                 "uninstall": {
                     "path01": "0100A3D008C5C000/romfs"
                 }
             }
         },
-        "Pokemon Violet ( Update 1.2.0 )": {
+        "Pokemon Violet ( Update 1.3.0 )": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMVIOLETGI/01008F6008C5E000.zip",
             "size": "32.1 MB",
             "installed": {
                 "hash_file": "01008F6008C5E000/romfs/arc/data.trpfd",
-                "hash_size": 9347288,
+                "hash_size": 9347712,
                 "uninstall": {
                     "path01": "01008F6008C5E000/romfs"
                 }
