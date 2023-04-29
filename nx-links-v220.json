@@ -479,6 +479,18 @@
                 }
             }
         },
+		"Fire Emblem Engage": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/fireemblem/0100A6301214E000.zip",
+            "size": "2.54 MB",
+            "installed": {
+                "hash_file": "0100A6301214E000/romfs/Data/StreamingAssets/aa/Switch/fe_assets_message/us/usen/accessories.bytes.bundle",
+                "hash_size": 56143,
+                "uninstall": {
+                    "path01": "0100A6301214E000/romfs"
+                }
+            }
+        },
         "Firewatch": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Firewatch/0100AC300919A000.zip",
