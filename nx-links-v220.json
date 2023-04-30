@@ -1693,13 +1693,13 @@
                 }
             }
         },
-		"Xenoblade Chronicles 3": {
+		"Xenoblade Chronicles 3 ( Update 2.0.0 )": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/xenoblade3/010074F013262000.zip",
             "size": "1.19 MB",
             "installed": {
-                "hash_file": "010074F013262000/romfs/bdat/gb/game/quest.bdat",
-                "hash_size": 99488,
+                "hash_file": "010074F013262000/romfs/bdat/gb/game/autotalk.bdat",
+                "hash_size": 215988,
                 "uninstall": {
                     "path01": "010074F013262000/romfs",
 					"path02": "010074F013262000/exefs"
