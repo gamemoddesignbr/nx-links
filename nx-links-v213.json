@@ -229,7 +229,7 @@
                 }
             }
         },
-		"Crisis Core Final Fantasy VII Reunion": {
+        "Crisis Core Final Fantasy VII Reunion": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crisiscore/01004BC0166CC000.zip",
             "size": "151 MB",
@@ -479,7 +479,7 @@
                 }
             }
         },
-		"Fire Emblem Engage": {
+        "Fire Emblem Engage": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/fireemblem/0100A6301214E000.zip",
             "size": "2.54 MB",
@@ -1693,7 +1693,7 @@
                 }
             }
         },
-		"Xenoblade Chronicles 3 ( Update 2.0.0 )": {
+        "Xenoblade Chronicles 3 ( Update 2.0.0 )": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/xenoblade3/010074F013262000.zip",
             "size": "1.19 MB",
@@ -1702,7 +1702,7 @@
                 "hash_size": 215988,
                 "uninstall": {
                     "path01": "010074F013262000/romfs",
-					"path02": "010074F013262000/exefs"
+                    "path02": "010074F013262000/exefs"
                 }
             }
         },
@@ -1718,7 +1718,7 @@
                 }
             }
         },
-		"Windbound": {
+        "Windbound": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/windbound/010044000f7f2000.zip",
             "size": "5.05 MB",
@@ -2016,18 +2016,18 @@
     },
     "GMPACK-MOTD": {
         "enabled": true,
-        "always_show": false,
-        "message": "28/03/2023 20:15PM\nAVISO!\n\nO APG hospeda seus conteúdos no GitHub e, recentemente, eles mudaram algumas políticas internas e baixaram o limite de acessos para somente 60 por IP e hora.\nEsta mudança afeta o APG e, caso você precise abri-lo por mais do que 2 ou 3 vezes ele não abrirá mais até que esta próxima hora chegue.\nEstamos cientes disto e iremos preparar uma atualização para mitigar este limite mas não há um prazo definido ainda!\n\nAgradecemos a compreensão!"
+        "always_show": true,
+        "message": "05/05/2023 21:25PM\nAVISO!\n\nO APG hospeda seus conteúdos no GitHub e, recentemente, eles mudaram suas políticas de acesso limitando em somente 60 por IP/hora.\nEsta mudança afeta o APG! Portanto evite abri-lo mais do que 2 vezes num intervalo de 1 hora.\nEstamos cientes disto e iremos preparar uma atualização para tentar mitigar este problema, mas não há um prazo definido ainda!\n\nAgradecemos a compreensão!"
     },
     "CNXPACK-MOTD": {
         "enabled": true,
-        "always_show": false,
-        "message":"04/04/2023 22:15\nBem-vindo ao CNX Pack Updater!\n\nCompatível com o Firmware 16.0.2 No dia 22 de Março de 2023 uma nova versão do Pacote foi disponibilizada, ele é livre homebrews de pirataria (piracy free)!\n\nLeiam o Changelog, disponível no botão Alterações no CNXPACK.\n\nAssim como o Atmosphère, ele não tem arquivos para contornar a segurança do Nintendo Switch™ e sempre foi distribuído gratuitamente.\n\nSeu propósito principal é o de somente habilitar o uso de homebrews (“programas caseiros” não-oficiais criados pelos próprios usuários de uma plataforma específica).\n\nPor favor, consulte o “aviso legal” presente no arquivo “LEIA-ME.txt” dentro do CNX Pack Updater ou aperte o botão Y no CNX Pack Updater para mais detalhes.\n\nObrigado!"
+        "always_show": true,
+        "message": "05/05/2023 21:25PM\nAVISO!\n\nO CNX hospeda seus conteúdos no GitHub e, recentemente, eles mudaram suas políticas de acesso limitando em somente 60 por IP/hora.\nEsta mudança afeta o CNG! Portanto evite abri-lo mais do que 2 vezes num intervalo de 1 hora.\nEstamos cientes disto e iremos preparar uma atualização para tentar mitigar este problema, mas não há um prazo definido ainda!\n\nAgradecemos a compreensão!"
     },
     "SGM-MOTD": {
         "enabled": true,
-        "always_show": false,
-        "message": "06/05/2022 21:36\nAVISO!\n\nBem-vindo ao pacote SGM!"
+        "always_show": true,
+        "message": "05/05/2023 21:25PM\nAVISO!\n\nO SGM hospeda seus conteúdos no GitHub e, recentemente, eles mudaram suas políticas de acesso limitando em somente 60 por IP/hora.\nEsta mudança afeta o SGM! Portanto evite abri-lo mais do que 2 vezes num intervalo de 1 hora.\nEstamos cientes disto e iremos preparar uma atualização para tentar mitigar este problema, mas não há um prazo definido ainda!\n\nAgradecemos a compreensão!"
     },
     "cfws": {
         "GMPACK": {
