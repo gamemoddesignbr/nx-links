@@ -2022,7 +2022,7 @@
     "CNXPACK-MOTD": {
         "enabled": true,
         "always_show": true,
-        "message": "05/05/2023 21:25PM\nAVISO!\n\nO CNX hospeda seus conteúdos no GitHub e, recentemente, eles mudaram suas políticas de acesso limitando em somente 60 por IP/hora.\nEsta mudança afeta o CNG! Portanto evite abri-lo mais do que 2 vezes num intervalo de 1 hora.\nEstamos cientes disto e iremos preparar uma atualização para tentar mitigar este problema, mas não há um prazo definido ainda!\n\nAgradecemos a compreensão!"
+        "message": "05/05/2023 21:25PM\nAVISO!\n\nO CNX hospeda seus conteúdos no GitHub e, recentemente, eles mudaram suas políticas de acesso limitando em somente 60 por IP/hora.\nEsta mudança afeta o CNX! Portanto evite abri-lo mais do que 2 vezes num intervalo de 1 hora.\nEstamos cientes disto e iremos preparar uma atualização para tentar mitigar este problema, mas não há um prazo definido ainda!\n\nAgradecemos a compreensão!"
     },
     "SGM-MOTD": {
         "enabled": true,
