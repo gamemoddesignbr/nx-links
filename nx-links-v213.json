@@ -1814,9 +1814,9 @@
                 }
             }
         },
-		"Zelda™: Tears of the Kingdom": {
+		"Zelda: Tears of the Kingdom": {
             "enabled": true,
-            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldattok/0100F2C0115B6000.zip",
+            "link": "https://mega.nz/file/tkgiSZrb#4U69ZnTMMaiXRvoXVd9-AaBp-7DT8wl_Okq3KkJtnQg",
             "size": "3.92 MB",
             "installed": {
                 "hash_file": "0100F2C0115B6000/romfs/Mals/USen.Product.110.sarc.zs",
