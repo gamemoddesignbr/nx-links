@@ -1814,13 +1814,13 @@
                 }
             }
         },
-		"Zelda™: Tears of the Kingdom": {
+		"Zelda™: Tears of the Kingdom 2.0 BETA (update 1.1.1 )": {
             "enabled": true,
-            "link": "https://mega.nz/file/tkgiSZrb#4U69ZnTMMaiXRvoXVd9-AaBp-7DT8wl_Okq3KkJtnQg",
-            "size": "3.92 MB",
+            "link": "https://mega.nz/file/R0hUmaCT#PdnlKqfR8kUGtXwbQSCrHzZc-hZ11qTUOARQ5SWWMfI",
+            "size": "72 MB",
             "installed": {
-                "hash_file": "0100F2C0115B6000/romfs/Mals/USen.Product.110.sarc.zs",
-                "hash_size": 2055171,
+                "hash_file": "0100F2C0115B6000/romfs/System/ResourceSizeTable.Product.111.rsizetable",
+                "hash_size": 2153993,
                 "uninstall": {
                     "path01": "0100F2C0115B6000/romfs"                    
                 }
