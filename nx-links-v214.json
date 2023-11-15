@@ -1,0 +1,2061 @@
+{
+    "translations": {
+        "1-2 Switch": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/1-2_Switch/01000320000CC000.zip",
+            "size": "53.7 MB",
+            "installed": {
+                "hash_file": "01000320000CC000/romfs/NX32/EUen/autogen/splash_screen/texture.bin.szs",
+                "hash_size": 1894439,
+                "uninstall": {
+                    "path01": "01000320000CC000/romfs"
+                }
+            }
+        },
+        "12 is better than 6": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/12_is_better_than_6/01007F600D1B8000.zip",
+            "size": "622 KB",
+            "installed": {
+                "hash_file": "01007F600D1B8000/romfs/localization.csv",
+                "hash_size": 921202,
+                "uninstall": {
+                    "path01": "01007F600D1B8000/romfs"
+                }
+            }
+        },
+        "Alwa's Legacy": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Alwa's_Legacy/01001B7012214000.zip",
+            "size": "319 KB",
+            "installed": {
+                "hash_file": "01001B7012214000/romfs/Data/resources.assets",
+                "hash_size": 1001232,
+                "uninstall": {
+                    "path01": "01001B7012214000/romfs"
+                }
+            }
+        },
+        "Another Metroid 2 Remake": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/AM2RNX/0100414d32524e00.zip",
+            "size": "121 KB",
+            "installed": {
+                "hash_file": "0100414d32524e00/romfs/lang/languagues.txt",
+                "hash_size": 87,
+                "uninstall": {
+                    "path01": "0100414d32524e00/romfs"
+                }
+            }
+        },
+        "Archvale": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/archvale/0100A4D0146B2000.zip",
+            "size": "248 KB",
+            "installed": {
+                "hash_file": "0100A4D0146B2000/romfs/locdoc.csv",
+                "hash_size": 629840,
+                "uninstall": {
+                    "path01": "0100A4D0146B2000/romfs"
+                }
+            }
+        },
+        "Bayonetta": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/bayonetta/010076F0049A2000.zip",
+            "size": "464 MB",
+            "installed": {
+                "hash_file": "010076F0049A2000/romfs/data00.cpk",
+                "hash_size": 1241871280,
+                "uninstall": {
+                    "path01": "010076F0049A2000/romfs"
+                }
+            }
+        },
+        "Beholder Complete Edition": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/beholder/0100D1300C1EA000.zip",
+            "size": "315 KB",
+            "installed": {
+                "hash_file": "0100D1300C1EA000/romfs/romfs/Data/StreamingAssets/Localization/en/strings.xml",
+                "hash_size": 1126257,
+                "uninstall": {
+                    "path01": "0100D1300C1EA000/romfs"
+                }
+            }
+        },
+        "Bioshock": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Bioshock/0100AD10102B2000.zip",
+            "size": "299 KB",
+            "installed": {
+                "hash_file": "0100AD10102B2000/romfs/localizedint.lbf",
+                "hash_size": 854628,
+                "uninstall": {
+                    "path01": "0100AD10102B2000/romfs"
+                }
+            }
+        },
+        "Bioshock 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Bioshock_2/01002620102C6000.zip",
+            "size": "473 KB",
+            "installed": {
+                "hash_file": "01002620102C6000/romfs/localizedint.lbf",
+                "hash_size": 3039512,
+                "uninstall": {
+                    "path01": "01002620102C6000/romfs"
+                }
+            }
+        },
+        "BioShock Infinite": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/BioShock_Infinite/0100D560102C8000.zip",
+            "size": "1.17 MB",
+            "installed": {
+                "hash_file": "0100D560102C8000/romfs/DLC/DLCA/Localization/INT/DCLA_ZEP_Tear_Ship.INT",
+                "hash_size": 34822,
+                "uninstall": {
+                    "path01": "0100D560102C8000/romfs"
+                }
+            }
+        },
+        "Black Paradox": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Black_Pardox/010071900D95A000.zip",
+            "size": "1.31 MB",
+            "installed": {
+                "hash_file": "010071900D95A000/romfs/Data/sharedassets0.assets",
+                "hash_size": 4576104,
+                "uninstall": {
+                    "path01": "010071900D95A000/romfs"
+                }
+            }
+        },
+        "Borderlands The Pre-Sequel": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Borderlands_TPS/010007400FF24000.zip",
+            "size": "1.09 MB",
+            "installed": {
+                "hash_file": "010007400FF24000/romfs/NXTOC.txt",
+                "hash_size": 86172,
+                "uninstall": {
+                    "path01": "010007400FF24000/romfs"
+                }
+            }
+        },
+        "Cadence of Hyrule": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Cadende_of_Hyrule/01000B900D8B0000.zip",
+            "size": "5.01 MB",
+            "installed": {
+                "hash_file": "01000B900D8B0000/romfs/localization.xml",
+                "hash_size": 2252584,
+                "uninstall": {
+                    "path01": "01000B900D8B0000/romfs"
+                }
+            }
+        },
+        "Captain Toad Treasure Tracker": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/captaintoadtt/01009BF0072D4000.zip",
+            "size": "547 KB",
+            "installed": {
+                "hash_file": "01009BF0072D4000/romfs/LocalizedData/USen/LayoutData/FontData.szs",
+                "hash_size": 717836,
+                "uninstall": {
+                    "path01": "01009BF0072D4000/romfs"
+                }
+            }
+        },
+        "Cat Quest": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Cat_Quest/0100A2F006FBE000.zip",
+            "size": "1.38 MB",
+            "installed": {
+                "hash_file": "0100A2F006FBE000/romfs/Data/sharedassets0.assets",
+                "hash_size": 8305320,
+                "uninstall": {
+                    "path01": "0100A2F006FBE000/romfs"
+                }
+            }
+        },
+        "Cathedral": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Cathedral/0100BEB01327A000.zip",
+            "size": "73.3 KB",
+            "installed": {
+                "hash_file": "0100BEB01327A000/romfs/lang/en-us.lang",
+                "hash_size": 129760,
+                "uninstall": {
+                    "path01": "0100BEB01327A000/romfs"
+                }
+            }
+        },
+        "Cobra Kai": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/cobrakai/01005790110F0000.zip",
+            "size": "93.3 MB",
+            "installed": {
+                "hash_file": "01005790110F0000/romfs/Data/resources.assets",
+                "hash_size": 181169608,
+                "uninstall": {
+                    "path01": "01005790110F0000/romfs"
+                }
+            }
+        },
+        "Chained Echoes": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/chainedechoes/0100C510166F0000.zip",
+            "size": "6.76 MB",
+            "installed": {
+                "hash_file": "0100C510166F0000/romfs/Data/StreamingAssets/bansheegz_database.bytes",
+                "hash_size": 1782656,
+                "uninstall": {
+                    "path01": "0100C510166F0000/romfs"
+                }
+            }
+        },
+        "Chrono Cross Radical Dreamers Edition": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ccross/ccross.zip",
+            "size": "2.91 MB",
+            "installed": {
+                "hash_file": "0100AC20128AC000/romfs/data/launcher/Resources/EN/Image/base.png",
+                "hash_size": 1851461,
+                "uninstall": {
+                    "path01": "0100AC20128AC000/romfs",
+                    "path02": "0100AC20128AC001/romfs"
+                }
+            }
+        },
+        "Crisis Core Final Fantasy VII Reunion": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crisiscore/01004BC0166CC000.zip",
+            "size": "151 MB",
+            "installed": {
+                "hash_file": "01004BC0166CC000/romfs/CCFF7R/Content/Paks/pakchunk8-Switch_TRPKG_1.0_P.pak",
+                "hash_size": 159715490,
+                "uninstall": {
+                    "path01": "01004BC0166CC000/romfs"
+                }
+            }
+        },
+        "Crysis 2 Remastered": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crysis2/0100582010AE0000.zip",
+            "size": "2.13 MB",
+            "installed": {
+                "hash_file": "0100582010AE0000/romfs/gamecrysis2/localized/english.pak",
+                "hash_size": 3086510,
+                "uninstall": {
+                    "path01": "0100582010AE0000/romfs"
+                }
+            }
+        },
+        "Crysis 3 Remastered": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crysis3/0100CD3010AE2000.zip",
+            "size": "310 MB",
+            "installed": {
+                "hash_file": "0100CD3010AE2000/romfs/localization/english.pak",
+                "hash_size": 375102762,
+                "uninstall": {
+                    "path01": "0100CD3010AE2000/romfs"
+                }
+            }
+        },
+        "Crysis Remastered": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Crysis_Remastered/0100E66010ADE000.zip",
+            "size": "555 KB",
+            "installed": {
+            "hash_file": "0100E66010ADE000/romfs/patch/localized/english2.pak",
+                "hash_size": 568964,
+                "uninstall": {
+                    "path01": "0100E66010ADE000/romfs"
+                }
+            }
+        },
+        "Dark Devotion": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Dark_Devotion/010083A00BF6C000.zip",
+            "size": "571 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010083A00BF6C000"
+                }
+            }
+        },
+        "DC Super Hero Girls": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/dcsuperherogirls/0100F8F00C4F2000.zip",
+            "size": "332 KB",
+            "installed": {
+                "hash_file": "0100F8F00C4F2000/romfs/Archive/message.nx.enUS.bea",
+                "hash_size": 344931,
+                "uninstall": {
+                    "path01": "0100F8F00C4F2000/romfs"
+                }
+            }
+        },
+        "Deltarune": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Deltarune/010023800D64A000.zip",
+            "size": "11 MB",
+            "installed": {
+                "hash_file": "010023800D64A000/romfs/game.win",
+                "hash_size": 19712748,
+                "uninstall": {
+                    "path01": "010023800D64A000/romfs"
+                }
+            }
+        },
+        "Divinity 2 - Original Sin DE": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Divinity_2_Original_Sin/010027400CDC6000.zip",
+            "size": "6.69 MB",
+            "installed": {
+                "hash_file": "010027400CDC6000/romfs/Data/Localization/English.pak",
+                "hash_size": 8690995,
+                "uninstall": {
+                    "path01": "010027400CDC6000/romfs"
+                }
+            }
+        },
+        "Don't Starve": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Don't_Starve/0100751007ADA000.zip",
+            "size": "1.59 MB",
+            "installed": {
+                "hash_file": "0100751007ADA000/romfs/DLC0002/dlcinfo.txt",
+                "hash_size": 4,
+                "uninstall": {
+                    "path01": "0100751007ADA000/romfs"
+                }
+            }
+        },
+        "Donkey Kong Tropical Freeze": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/dktf/0100C1F0051B6000.zip",
+            "size": "466 MB",
+            "installed": {
+                "hash_file": "0100C1F0051B6000/romfs/MiscData.pak",
+                "hash_size": 1056192,
+                "uninstall": {
+                    "path01": "0100C1F0051B6000/romfs"
+                }
+            }
+        },
+        "Doom 64": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Doom_64/01005D700E742000.zip",
+            "size": "26.7 MB",
+            "installed": {
+                "hash_file": "01005D700E742000/romfs/Doom64.kpf",
+                "hash_size": 27970112,
+                "uninstall": {
+                    "path01": "01005D700E742000/romfs"
+                }
+            }
+        },
+        "Doom Leg+Dub": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Doom_LEG_AUD/0100416004C00000.zip",
+            "size": "149 MB",
+            "installed": {
+                "hash_file": "0100416004C00000/romfs/base/gameresources_004.patch",
+                "hash_size": 5047356,
+                "uninstall": {
+                    "path01": "0100416004C00000/romfs"
+                }
+            }
+        },
+        "Doorkickers": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Doorkickers/0100B0601205E000.zip",
+            "size": "2.68 MB",
+            "installed": {
+                "hash_file": "0100B0601205E000/romfs/mod.xml",
+                "hash_size": 1185,
+                "uninstall": {
+                    "path01": "0100B0601205E000/romfs"
+                }
+            }
+        },
+        "Eagle Island": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Eagle_Island/010037400C7DA000.zip",
+            "size": "18.1 KB",
+            "installed": {
+                "hash_file": "010037400C7DA000/romfs/Content/languages/credits",
+                "hash_size": 1541,
+                "uninstall": {
+                    "path01": "010037400C7DA000/romfs"
+                }
+            }
+        },
+        "Evoland": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Evoland/0100ED100B160000.zip",
+            "size": "507 MB",
+            "installed": {
+                "hash_file": "0100B0601205E000/romfs/evo1.pak",
+                "hash_size": 66661614,
+                "uninstall": {
+                    "path01": "0100B0601205E000/romfs"
+                }
+            }
+        },
+        "Fallout Shelter": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/falloutshelter/010043500A17A000.zip",
+            "size": "6.14 MB",
+            "installed": {
+                "hash_file": "0100BEB015604000/romfs/data/resources.assets",
+                "hash_size": 34799400,
+                "uninstall": {
+                    "path01": "010043500A17A000/romfs"
+                }
+            }
+        },
+        "Fatal Frame Maiden of The Black Water": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffmotw/0100BEB015604000.zip",
+            "size": "53.1 MB",
+            "installed": {
+                "hash_file": "010043500A17A000/romfs/text/USen/LYRICS.fmsg",                
+                "hash_size": 5056,
+                "uninstall": {
+                    "path01": "0100BEB015604000/romfs"
+                }
+            }
+        },
+        "Final Fantasy IX": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffix/01007ef00b094000.zip",
+            "size": "53.3 MB",
+            "installed": {
+                "hash_file": "01007ef00b094000/romfs/data/resources.assets",
+                "hash_size": 205302420,
+                "uninstall": {
+                    "path01": "01007ef00b094000/romfs"
+                }
+            }
+        },
+        "Final Fantasy VII": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffvii/0100A5B00BDC6000.zip",
+            "size": "427 MB",
+            "installed": {
+                "hash_file": "0100B0601205E000/romfs/ff7/resources/ff7_1.02",
+                "hash_size": 6421856,
+                "uninstall": {
+                    "path01": "0100B0601205E000/romfs"
+                }
+            }
+        },
+        "Final Fantasy VIII": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffviii/01008B900DC0A000.zip",
+            "size": "459 MB",
+            "installed": {
+                "hash_file": "01008B900DC0A000/romfs/be_loc/be_loc_en.xml",
+                "hash_size": 742,
+                "uninstall": {
+                    "path01": "01008B900DC0A000/romfs"
+                }
+            }
+        },
+        "Final Fantasy XII Zodiac Age": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffxii/0100EB100AB42000.zip",
+            "size": "41.6 MB",
+            "installed": {
+                "hash_file": "0100EB100AB42000/romfs/FFXII_TZA_PATCH.vbf",
+                "hash_size": 59269622,
+                "uninstall": {
+                    "path01": "0100EB100AB42000/romfs"
+                }
+            }
+        },
+        "Fire Emblem Engage": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/fireemblem/0100A6301214E000.zip",
+            "size": "2.54 MB",
+            "installed": {
+                "hash_file": "0100A6301214E000/romfs/Data/StreamingAssets/aa/Switch/fe_assets_message/us/usen/accessories.bytes.bundle",
+                "hash_size": 56143,
+                "uninstall": {
+                    "path01": "0100A6301214E000/romfs"
+                }
+            }
+        },
+        "Firewatch": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Firewatch/0100AC300919A000.zip",
+            "size": "84.4 MB",
+            "installed": {
+                "hash_file": "0100AC300919A000/romfs/data/resources.assets",
+                "hash_size": 15605725,
+                "uninstall": {
+                    "path01": "0100AC300919A000/romfs"
+                }
+            }
+        },
+        "Flynn Son of Crimson": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Flynn_Son_of_Crimson/01005F2014B80000.zip",
+            "size": "27.9 KB",
+            "installed": {
+                "hash_file": "01005F2014B80000/romfs/langEN.ini",
+                "hash_size": 69505,
+                "uninstall": {
+                    "path01": "01005F2014B80000/romfs"
+                }
+            }
+        },
+        "Forgotton Anne": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Forgotton_Anne/010059E00B93C000.zip",
+            "size": "24.1 KB",
+            "installed": {
+                "hash_file": "010059E00B93C000/romfs/Data/StreamingAssets/AssetBundles/languagelist",
+                "hash_size": 1537,
+                "uninstall": {
+                    "path01": "010059E00B93C000/romfs"
+                }
+            }
+        },
+        "Fox N Forests": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Fox_n_Forests/01008A100A028000.zip",
+            "size": "552 KB",
+            "installed": {
+                "hash_file": "01008A100A028000/romfs/Data/resources.assets",
+                "hash_size": 2086920,
+                "uninstall": {
+                    "path01": "01008A100A028000/romfs"
+                }
+            }
+        },
+        "Ghosts 'n Goblins Resurrection": {
+            "enabled": true,
+            "link": "https://mega.nz/file/YgJRDDRT#i0X1vHhQsCPyS3QDc2j1OxPg8-yBgNSYA1puvw4anSU",
+            "size": "2.86 GB",
+            "installed": {
+                "hash_file": "0100EAE00D9EC000/romfs/re_chunk_000.pak.patch_002.pak",
+                "hash_size": 982,
+                "uninstall": {
+                    "path01": "0100EAE00D9EC000/romfs"
+                }
+            }
+        },
+        "Ghostbusters The Video Game Remastered": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ghostbusters/0100EAE00D9EC000.zip",
+            "size": "164 MB",
+            "installed": {
+                "hash_file": "0100EAE00D9EC000/romfs/LANGUAGE.POD",
+                "hash_size": 2086920,
+                "uninstall": {
+                    "path01": "0100EAE00D9EC000/romfs"
+                }
+            }
+        },
+        "Good Job": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Good_Job/0100B0500FE4E000.zip",
+            "size": "36.7 KB",
+            "installed": {
+                "hash_file": "0100B0500FE4E000/romfs/data/StreamingAssets/Localization/Project.msbp",
+                "hash_size": 3134827,
+                "uninstall": {
+                    "path01": "0100B0500FE4E000/romfs"
+                }
+            }
+        },
+        "Hard West": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/hardwest/0100ECE00D13E000.zip",
+            "size": "270 KB",
+            "installed": {
+                "hash_file": "0100ECE00D13E000/romfs/Data/StreamingAssets/Data/dialogs.tsv",
+                "hash_size": 65341,
+                "uninstall": {
+                    "path01": "0100ECE00D13E000/romfs"
+                }
+            }
+        },
+        "Huntdown": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Huntdown/0100EBA004726000.zip",
+            "size": "2.27 MB",
+            "installed": {
+                "hash_file": "0100EBA004726000/romfs/Data/resources.assets",
+                "hash_size": 19617164,
+                "uninstall": {
+                    "path01": "0100EBA004726000/romfs"
+                }
+            }
+        },
+        "Iconoclasts": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/iconoclasts/0100BC60099FE000.zip",
+            "size": "202 KB",
+            "installed": {
+                "hash_file": "0100BC60099FE000/romfs/Data/dia",
+                "hash_size": 1270544,
+                "uninstall": {
+                    "path01": "0100BC60099FE000/romfs"
+                }
+            }
+        },
+        "Isoland": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Isoland/010065200D192000.zip",
+            "size": "289 KB",
+            "installed": {
+                "hash_file": "010065200D192000/romfs/Data/resources.assets",
+                "hash_size": 719288,
+                "uninstall": {
+                    "path01": "010065200D192000/romfs"
+                }
+            }
+        },        
+        "Kirby - Forgotten Lands": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Kyrby_Forgotten_Lands/01004D300C5AE000.zip",
+            "size": "483 KB",
+            "installed": {
+                "hash_file": "01004D300C5AE000/romfs/msg/Kirby15/US_English/AdviceWindow.msbt",
+                "hash_size": 4384,
+                "uninstall": {
+                    "path01": "01004D300C5AE000/romfs"
+                }
+            }
+        },
+        "Kirby - Star Allies": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Kirby_Star_Allies/01007E3006DDA000.zip",
+            "size": "483 KB",
+            "installed": {
+                "hash_file": "01007E3006DDA000/romfs/msg/Eclair/Eclair.msbp",
+                "hash_size": 3456,
+                "uninstall": {
+                    "path01": "01007E3006DDA000/romfs"
+                }
+            }
+        },
+        "L.A Noire": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/LA_NOIRE/0100830004FB6000.zip",
+            "size": "1.54 GB",
+            "installed": {
+                "hash_file": "0100830004FB6000/romfs/final/nx/cases.big.nx",
+                "hash_size": 9874112,
+                "uninstall": {
+                    "path01": "0100830004FB6000/romfs"
+                }
+            }
+        },
+        "Lifeless Planet Premiere Edition": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Lifeless_Planet_Premiere_Edition/01005B6008132000.zip",
+            "size": "486 KB",
+            "installed": {
+                "hash_file": "01005B6008132000/romfs/Data/resources.assets",
+                "hash_size": 164316,
+                "uninstall": {
+                    "path01": "01005B6008132000/romfs"
+                }
+            }
+        },
+        "Legend of Mana Remastered (Requer Update 1.1.0)": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/lomr/01003570130E2000.zip",
+            "size": "718 MB",
+            "installed": {
+                "hash_file": "01003570130E2000/romfs/text/EN_US.psb.m",
+                "hash_size": 483048,
+                "uninstall": {
+                    "path01": "01003570130E2000/romfs"
+                }
+            }
+        },
+        "Lost in Random": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/lostinrandom/01005FE01291A000.zip",
+            "size": "4.28 MB",
+            "installed": {
+                "hash_file": "01005FE01291A000/romfs/Data/resources.assets",
+                "hash_size": 12200592,
+                "uninstall": {
+                    "path01": "01005FE01291A000/romfs"
+                }
+            }
+        },
+        "Luigi's Mansion 3": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/luigis3/Luigis_Mansion3.zip",
+            "size": "19.8 MB",
+            "installed": {
+                "hash_file": "0100DCA0064A6000/romfs/init.patch",
+                "hash_size": 21405451,
+                "uninstall": {
+                    "path01": "0100DCA0064A6000/manual_html",
+                    "path02": "0100DCA0064A6000/romfs"
+                }
+            }
+        },
+        "Mario 3D World + Bowser Fury": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SM3DW/010028600EBDA000.zip",
+            "size": "86.9 KB",
+            "installed": {
+                "hash_file": "010028600EBDA000/romfs/LocalizedData/EuPt/MessageData/LayoutMessage.szs",
+                "hash_size": 11792,
+                "uninstall": {
+                    "path01": "010028600EBDA000/romfs"
+                }
+            }
+        },
+        "Mario Kart 8 Deluxe": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mk8d/0100152000022000.zip",
+            "size": "54.5 KB",
+            "installed": {
+                "hash_file": "0100152000022000/romfs/UI/EUpt/message.sarc",
+                "hash_size": 71268,
+                "uninstall": {
+                    "path01": "0100152000022000/romfs"
+                }
+            }
+        },
+        "Mario Tennis Aces": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/MTA/0100BDE00862A000.zip",
+            "size": "138 KB",
+            "installed": {
+                "hash_file": "0100BDE00862A000/romfs/msg/i18n_eu_en/msg_kernel.dat",
+                "hash_size": 337430,
+                "uninstall": {
+                    "path01": "0100BDE00862A000/romfs"
+                }
+            }
+        },
+        "Mark of the Ninja Remastered": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/markoftheninjaremastered/01009A700A538000.zip",
+            "size": "96.5 KB",
+            "installed": {
+                "hash_file": "01009A700A538000/romfs/data-nx/bootstrap/localization/english.str",
+                "hash_size": 354296,
+                "uninstall": {
+                    "path01": "01009A700A538000/romfs"
+                }
+            }
+        },
+        "Marsupilami Hoobaventure": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/MARSUPILAMI/010074F014628000.zip",
+            "size": "31 KB",
+            "installed": {
+                "hash_file": "010074F014628000/romfs/Data/StreamingAssets/Localization.csv",
+                "hash_size": 90114,
+                "uninstall": {
+                    "path01": "010074F014628000/romfs"
+                }
+            }
+        },
+        "Mega Man 11": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/megaman11/0100B0C0086B0000.zip",
+            "size": "516 MB",
+            "installed": {
+                "hash_file": "0100B0C0086B0000/romfs/nativeNXx64/arc/gameover.arc",
+                "hash_size": 150175,
+                "uninstall": {
+                    "path01": "0100B0C0086B0000/romfs"
+                }
+            }
+        },
+        "Mega Man Zero/ZX Legacy Collection": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/megamanzero/010025C00D410000.zip",
+            "size": "5.75 MB",
+            "installed": {
+                "hash_file": "010025C00D410000/romfs/nativeNXx64/RZZC/ZX/DATA/elf.bin",
+                "hash_size": 42908,
+                "uninstall": {
+                    "path01": "010025C00D410000/romfs"
+                }
+            }
+        },
+        "Metro 2033 Redux": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Metro_2033_Redux/0100D4900E82C000.zip",
+            "size": "3.28 MB",
+            "installed": {
+                "hash_file": "0100D4900E82C000/romfs/content.vfx",
+                "hash_size": 3546555,
+                "uninstall": {
+                    "path01": "0100D4900E82C000/romfs"
+                }
+            }
+        },
+        "Metro Last Light Redux": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Metro_Last_Ligth_Redux/0100F0400E850000.zip",
+            "size": "4.47 MB",
+            "installed": {
+                "hash_file": "0100F0400E850000/romfs/content.vfx",
+                "hash_size": 5023741,
+                "uninstall": {
+                    "path01": "0100F0400E850000/romfs"
+                }
+            }
+        },
+        "Metroid Dread": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/metroid_dread/010093801237C000.zip",
+            "size": "731 KB",
+            "installed": {
+                "hash_file": "010093801237C000/romfs/system/localization/us_english.txt",
+                "hash_size": 145348,
+                "uninstall": {
+                    "path01": "010093801237C000/romfs"
+                }
+            }
+        },
+        "Mugster": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Mugster/010073E008E6E000.zip",
+            "size": "8.02 KB",
+            "installed": {
+                "hash_file": "010073E008E6E000/romfs/Data/resources.assets",
+                "hash_size": 26724372,
+                "uninstall": {
+                    "path01": "010073E008E6E000/romfs"
+                }
+            }
+        },
+        "My Time at Portia": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mytimeatportia/0100E25008E68000.zip",
+            "size": "29 MB",
+            "installed": {
+                "hash_file": "0100E25008E68000/romfs/Data/StreamingAssets/Switch/AssetBundles/introduce",
+                "hash_size": 96390,
+                "uninstall": {
+                    "path01": "0100E25008E68000/romfs"
+                }
+            }
+        },
+        "New Pokemon Snap": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/NPKMS/0100f4300bf2c000.zip",
+            "size": "205 KB",
+            "installed": {
+                "hash_file": "0100f4300bf2c000/romfs/common/Text/master/TextResource_en.drp",
+                "hash_size": 210664,
+                "uninstall": {
+                    "path01": "0100f4300bf2c000/romfs"
+                }
+            }
+        },
+        "New Super Mario Bros. U Deluxe": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/nsmbu/0100EA80032EA000.zip",
+            "size": "53 KB",
+            "installed": {
+                "hash_file": "0100EA80032EA000/romfs/Message/CommonMsg_EUpt.szs",
+                "hash_size": 47588,
+                "uninstall": {
+                    "path01": "0100EA80032EA000/romfs"
+                }
+            }
+        },
+        "NieR Automata The End of YoRHa Edition": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/nier/0100b8e016f76000.zip",
+            "size": "53 KB",
+            "installed": {
+                "hash_file": "0100b8e016f76000/romfs/data019.cpk",
+                "hash_size": 603976,
+                "uninstall": {
+                    "path01": "0100b8e016f76000/romfs"
+                }
+            }
+        },
+        "OctoDad": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/OctoDad/0100CAB006F54000.zip",
+            "size": "518 MB",
+            "installed": {
+                "hash_file": "0100CAB006F54000/romfs/Content.zip",
+                "hash_size": 567621756,
+                "uninstall": {
+                    "path01": "0100CAB006F54000/romfs"
+                }
+            }
+        },
+        "Octopath Traveler": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Octopath_Traveler/010057D006492000.zip",
+            "size": "9.04 MB",
+            "installed": {
+                "hash_file": "10057D006492000/romfs/Kingship/Content/Paks/Kingship-Switch_2_P.pak",
+                "hash_size": 567621756,
+                "uninstall": {
+                    "path01": "10057D006492000/romfs"
+                }
+            }
+        },
+        "Okami HD": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/okamihd/0100276009872000.zip",
+            "size": "216 MB",
+            "installed": {
+                "hash_file": "100276009872000/romfs/data/es/es7e.dat",
+                "hash_size": 8666536,
+                "uninstall": {
+                    "path01": "100276009872000/romfs"
+                }
+            }
+        },
+        "Omori": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/omori/010014E017B14000.zip",
+            "size": "108 MB",
+            "installed": {
+                "hash_file": "010014E017B14000/romfs/Assets.dat",
+                "hash_size": 757760,
+                "uninstall": {
+                    "path01": "010014E017B14000/romfs"
+                }
+            }
+        },
+        "Onimusha Warlords": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Onimusha_Warlords/0100416008A12000.zip",
+            "size": "72.4 KB",
+            "installed": {
+                "hash_file": "100416008A12000/romfs/IMAGE/MOVIE/LINKS00.SUB.txt",
+                "hash_size": 5698,
+                "uninstall": {
+                    "path01": "100416008A12000/romfs"
+                }
+            }
+        },
+        "Overcooked": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Overcooked/01009B900401E000.zip",
+            "size": "12.3 MB",
+            "installed": {
+                "hash_file": "01009B900401E000/romfs/Data/resources.assets",
+                "hash_size": 30384916,
+                "uninstall": {
+                    "path01": "01009B900401E000/romfs"
+                }
+            }
+        },
+        "Paper Mario Origami King": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PPMOK/0100A3900C3E2000.zip",
+            "size": "2.34 MB",
+            "installed": {
+                "hash_file": "0100A3900C3E2000/romfs/font/FOT-PopJoyStd-B.bffnt.zst",
+                "hash_size": 563626,
+                "uninstall": {
+                    "path01": "0100A3900C3E2000/romfs"
+                }
+            }
+        },
+        "Persona 5 Royal": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/persona5/01005CA01580E000.zip",
+            "size": "154 MB",
+            "installed": {
+                "hash_file": "01005CA01580E000/romfs/PATCH1.CPK",
+                "hash_size": 188458544,
+                "uninstall": {
+                    "path01": "01005CA01580E000/romfs"
+                }
+            }
+        },
+        "Pikmin 3": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Pikmin_3/0100F4C009322000.zip",
+            "size": "1.86 KB",
+            "installed": {
+                "hash_file": "0100F4C009322000/romfs/EUEng/system/message.szs",
+                "hash_size": 593524,
+                "uninstall": {
+                    "path01": "0100F4C009322000/romfs"
+                }
+            }
+        },
+        "Pillar of Eternity": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Pillars_of_Eternity/0100D6200E130000.zip",
+            "size": "17 MB",
+            "installed": {
+                "hash_file": "0100D6200E130000/romfs/Data/StreamingAssets/Data/Localized.zip",
+                "hash_size": 19516346,
+                "uninstall": {
+                    "path01": "0100D6200E130000/romfs"
+                }
+            }
+        },
+        "Planet Alpha": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Planet_Alpha/010003C0099EE000.zip",
+            "size": "1.29 MB",
+            "installed": {
+                "hash_file": "010003C0099EE000/romfs/PlanetAlpha/Content/Paks/PlanetAlpha-Switch_1_P.pak",
+                "hash_size": 1370395,
+                "uninstall": {
+                    "path01": "010003C0099EE000/romfs"
+                }
+            }
+        },
+        "Pokemon Brilliant Diamond": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/pkmbp/0100000011d90000.zip",
+            "size": "34.3 MB",
+            "installed": {
+                "hash_file": "0100000011d90000/romfs/Data/StreamingAssets/AssetAssistant/Dpr/movie/dia/logo/logo_dia_en",
+                "hash_size": 940325,
+                "uninstall": {
+                    "path01": "0100000011d90000/romfs"
+                }
+            }
+        },
+        "Pokemon Legend of Arceus": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMLA/01001F5010DFA000.zip",
+            "size": "26.3 MB",
+            "installed": {
+                "hash_file": "01001F5010DFA000/romfs/bin/archive/appli/battle_menu_eng.gfpak",
+                "hash_size": 612344,
+                "uninstall": {
+                    "path01": "01001F5010DFA000/romfs"
+                }
+            }
+        },
+        "Pokemon Let's Go Eevee": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMLE/0100187003A36000.zip",
+            "size": "10.6 MB",
+            "installed": {
+                "hash_file": "0100187003A36000/romfs/bin/app/archive/waza_oboe.gfpak",
+                "hash_size": 114067,
+                "uninstall": {
+                    "path01": "0100187003A36000/romfs"
+                }
+            }
+        },
+        "Pokemon Let's Go Pikachu": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMLP/010003F003A34000.zip",
+            "size": "10.6 MB",
+            "installed": {
+                "hash_file": "010003F003A34000/romfs/bin/app/archive/waza_oboe.gfpak",
+                "hash_size": 114067,
+                "uninstall": {
+                    "path01": "010003F003A34000/romfs"
+                }
+            }
+        },
+        "Pokemon Shield": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSHIELD/01008db008c2c000.zip",
+            "size": "24.9 MB",
+            "installed": {
+                "hash_file": "01008db008c2c000/romfs/bin/appli/bag/bin/bag_poke_skill_00_eng.arc",
+                "hash_size": 123288,
+                "uninstall": {
+                    "path01": "01008db008c2c000/romfs"
+                }
+            }
+        },
+        "Pokemon Shining Pearl": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/pkmsp/010018e011d92000.zip",
+            "size": "26.4 MB",
+            "installed": {
+                "hash_file": "010018e011d92000/romfs/Data/StreamingAssets/AssetAssistant/Dpr/movie/dia/logo/logo_dia_en",
+                "hash_size": 940325,
+                "uninstall": {
+                    "path01": "010018e011d92000/romfs"
+                }
+            }
+        },
+        "Pokemon Sword": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSWORD/0100abf008968000.zip",
+            "size": "24.9 MB",
+            "installed": {
+                "hash_file": "100abf008968000/romfs/bin/appli/bag/bin/bag_poke_skill_00_eng.arc",
+                "hash_size": 123288,
+                "uninstall": {
+                    "path01": "100abf008968000/romfs"
+                }
+            }
+        },
+        "Pokemon Scarlet ( Update 1.3.0 )": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMESCARLATGI/0100A3D008C5C000.zip",
+            "size": "32.1 MB",
+            "installed": {
+               "hash_file": "0100A3D008C5C000/romfs/arc/data.trpfd",
+                "hash_size": 9347712,
+                "uninstall": {
+                    "path01": "0100A3D008C5C000/romfs"
+                }
+            }
+        },
+        "Pokemon Violet ( Update 1.3.0 )": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMVIOLETGI/01008F6008C5E000.zip",
+            "size": "32.1 MB",
+            "installed": {
+                "hash_file": "01008F6008C5E000/romfs/arc/data.trpfd",
+                "hash_size": 9347712,
+                "uninstall": {
+                    "path01": "01008F6008C5E000/romfs"
+                }
+            }
+        },
+        "Potata": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Potata/01005FC010EB2000.zip",
+            "size": "82.7 MB",
+            "installed": {
+                "hash_file": "01005FC010EB2000/romfs/Data/resources.assets",
+                "hash_size": 2110992,
+                "uninstall": {
+                    "path01": "01005FC010EB2000/romfs"
+                }
+            }
+        },
+        "Resident Evil Hd Remaster": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/rehdremaster/010050F00BC1A000.zip",
+            "size": "20.5 MB",
+            "installed": {
+                "hash_file": "010050F00BC1A000/romfs/nativeNXx64/arc/id/e_rom/common.arc",
+                "hash_size": 1868246,
+                "uninstall": {
+                    "path01": "010050F00BC1A000/romfs"
+                }
+            }
+        },
+        "Rivals of Aether": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Rivals_of_Aether/0100D2700DE7C000.zip",
+            "size": "56.1 KB",
+            "installed": {
+                "hash_file": "0100D2700DE7C000/romfs/LOC_EN.txt",
+                "hash_size": 179165,
+                "uninstall": {
+                    "path01": "0100D2700DE7C000/romfs"
+                }
+            }
+        },
+        "Scott Pilgrim": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Scott_Pilgrim/0100394011C30000.zip",
+            "size": "47.6 KB",
+            "installed": {
+                "hash_file": "0100394011C30000/romfs/final/localization/english.bof",
+                "hash_size": 207758,
+                "uninstall": {
+                    "path01": "0100394011C30000/romfs"
+                }
+            }
+        },
+        "Signalis": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/signalis/0100307018934000.zip",
+            "size": "46.8 MB",
+            "installed": {
+                "hash_file": "0100307018934000/romfs/Data/resources.assets",
+                "hash_size": 80809840,
+                "uninstall": {
+                    "path01": "0100307018934000/romfs"
+                }
+            }
+        },
+        "Shantae Half Genie": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Shantae_Half_Genie/01006A200936C000.zip",
+            "size": "4.87 MB",
+            "installed": {
+                "hash_file": "01006A200936C000/romfs/credits.pak",
+                "hash_size": 326112,
+                "uninstall": {
+                    "path01": "01006A200936C000/romfs"
+                }
+            }
+        },
+        "Shio": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Shio/0100C2F00A568000.zip",
+            "size": "2.06 MB",
+            "installed": {
+                "hash_file": "0100C2F00A568000/romfs/Data/resources.assets",
+                "hash_size": 14823504,
+                "uninstall": {
+                    "path01": "0100C2F00A568000/romfs"
+                }
+            }
+        },
+        "Skellboy Refractured": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Skellboy_Refractured/0100D7001453A000.zip",
+            "size": "4.56 MB",
+            "installed": {
+                "hash_file": "0100D7001453A000/romfs/Data/sharedassets1.assets",
+                "hash_size": 10795776,
+                "uninstall": {
+                    "path01": "0100D7001453A000/romfs"
+                }
+            }
+        },
+        "Skyrim": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/skyrim/01000A10041EA000.zip",
+            "size": "2.94 MB",
+            "installed": {
+                "hash_file": "01000A10041EA000/romfs/Data/Interface/Translate_ENGLISH.txt",
+                "hash_size": 94168,
+                "uninstall": {
+                    "path01": "01000A10041EA000/romfs"
+                }
+            }
+        },
+        "Snipperclips": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Snipperclips/0100704000B3A000.zip",
+            "size": "47.6 KB",
+            "installed": {
+                "hash_file": "0100704000B3A000/romfs/Data/StreamingAssets/Localisation/global.tsv",
+                "hash_size": 111790,
+                "uninstall": {
+                    "path01": "0100704000B3A000/romfs"
+                }
+            }
+        },
+        "Sonic Colors Ultimate": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/soniccorlosultimate/010040E0116B8000.zip",
+            "size": "568 KB",
+            "installed": {
+                "hash_file": "010040E0116B8000/romfs/ultimateptbr.zip",
+                "hash_size": 596926,
+                "uninstall": {
+                    "path01": "010040E0116B8000/romfs"
+                }
+            }
+        },
+        "Sonic Forces": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/sonicforces/sonicforcesptbr.zip",
+            "size": "313 MB",
+            "installed": {
+                "hash_file": "01001270012B6000/romfs/disk/wars_patch.cpk",
+                "hash_size": 90699408,
+                "uninstall": {
+                    "path01": "01001270012B6000/romfs",
+                    "path02": "01001270012B7001/romfs",
+                    "path03": "01001270012B7002/romfs",
+                    "path04": "01001270012B7003/romfs",
+                    "path05": "01001270012B7004/romfs",
+                    "path06": "01001270012B7005/romfs",
+                    "path07": "01001270012B7006/romfs"
+                }
+            }
+        },
+        "Sonic Mania Plus": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Sonic_Mania_Plus/01009AA000FAA000.zip",
+            "size": "181 MB",
+            "installed": {
+                "hash_file": "01009AA000FAA000/romfs/Data.rsdk",
+                "hash_size": 208476194,
+                "uninstall": {
+                    "path01": "01009AA000FAA000/romfs"
+                }
+            }
+        },
+        "South Park The Stick of Truth": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/southparktst/southpark.zip",
+            "size": "1.55 MB",
+            "installed": {
+                "hash_file": "010095300b6a4800/romfs/data_localized_en.oaf",
+                "hash_size": 1415284,
+                "uninstall": {
+                    "path01": "010095300b6a4800/romfs",
+                    "path02": "010095300b6a4000/romfs",
+                    "path03": "010043600B6A6000/romfs"
+                }
+            }
+        },
+        "Steamworld Dig": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Steamworld_Dig/01009320084A4000.zip",
+            "size": "31.4 KB",
+            "installed": {
+                "hash_file": "01009320084A4000/romfs/Language/credits.en",
+                "hash_size": 2812,
+                "uninstall": {
+                    "path01": "01009320084A4000/romfs"
+                }
+            }
+        },
+        "Steamworld Dig 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Steamworld_Dig_2/0100CA9002322000.zip",
+            "size": "4.27 MB",
+            "installed": {
+                "hash_file": "0100CA9002322000/romfs/data01.impak",
+                "hash_size": 4811224,
+                "uninstall": {
+                    "path01": "0100CA9002322000/romfs"
+                }
+            }
+        },
+        "Steamworld Heist": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Steamworld_Heist/010016100A186000.zip",
+            "size": "4.02 MB",
+            "installed": {
+                "hash_file": "010016100A186000/romfs/Bundle/data01.impak",
+                "hash_size": 4224824,
+                "uninstall": {
+                    "path01": "010016100A186000/romfs"
+                }
+            }
+        },
+        "Story of Seasons Friends of Mineral Town(Update 1.0.5)": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/storyofseasonfomt/0100ED400EEC2000.zip",
+            "size": "1.20 MB",
+            "installed": {
+                "hash_file": "0100ED400EEC2000/romfs/resource/message/ichigo_message_all_ES.lzs",
+                "hash_size": 1432896,
+                "uninstall": {
+                    "path01": "0100ED400EEC2000/romfs"
+                }
+            }
+        },
+        "Super Cable Boy": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/supercableboy/01008260145F2000.zip",
+            "size": "41.6 KB",
+            "installed": {
+                "hash_file": "01008260145F2000/romfs/Data/StreamingAssets/SCBLocalization - Main.csv",
+                "hash_size": 113938,
+                "uninstall": {
+                    "path01": "01008260145F2000/romfs"
+                }
+            }
+        },
+        "Super Mario Maker 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SMM2/01009B90006DC000.zip",
+            "size": "477 KB",
+            "installed": {
+                "hash_file": "01009B90006DC000/romfs/Data.rsdk",
+                "hash_size": 208476194,
+                "uninstall": {
+                    "path01": "01009B90006DC000/romfs"
+                }
+            }
+        },
+        "Super Mario Odyssey": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/MarioOdysseyJMC/0100000000010000.zip",
+            "size": "759 KB",
+            "installed": {
+                "hash_file": "0100000000010000/romfs/LocalizedData/USen/LayoutData/FontData.szs",
+                "hash_size": 157308,
+                "uninstall": {
+                    "path01": "0100000000010000/romfs"
+                }
+            }
+        },
+        "Super Mario Party (Versão 1.0.0 somente)": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SSMP/010036B0034E4000.zip",
+            "size": "2.75 MB",
+            "installed": {
+                "hash_file": "010036B0034E4000/romfs/Archive/mess.nxonnx32.bea",
+                "hash_size": 2971626,
+                "uninstall": {
+                    "path01": "010036B0034E4000/romfs"
+                }
+            }
+        },
+        "Super Mario Galaxy": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mariogalaxy/Super.Mario.Galaxy.NX.zip",
+            "size": "579 KB",
+            "installed": {
+                "hash_file": "010049900F546003/romfs/EuSpanish/LayoutData/Font.arc",
+                "hash_size": 218180,
+                "uninstall": {
+                    "path01": "010049900F546000/romfs",
+                    "path02": "010049900F546003/romfs"
+                }
+            }
+        },
+        "Super Mario Sunshine": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SMSS/sunshine.zip",
+            "size": "298 MB",
+            "installed": {
+                "hash_file": "010049900F546002/romfs/MarioSunshine/Super_Mario_Sunshine_Stardust-trimmed.gcm",
+                "hash_size": 410484864,
+                "uninstall": {
+                    "path01": "010049900F546000/romfs",
+                    "path02": "010049900F546002/romfs"
+                }
+            }
+        },
+        "Sword of Necromancer": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Sword_of_Necromancer/0100E4701355C000.zip",
+            "size": "56.9 KB",
+            "installed": {
+                "hash_file": "0100E4701355C000/romfs/Texts/gametexts_esp.txt",
+                "hash_size": 47.129,
+                "uninstall": {
+                    "path01": "0100E4701355C000/romfs"
+                }
+            }
+        },
+        "Syberia": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/syberia/0100421003FD4000.zip",
+            "size": "6.98 MB",
+            "installed": {
+                "hash_file": "0100421003FD4000/romfs/texts/en.xml",
+                "hash_size": 352952,
+                "uninstall": {
+                    "path01": "0100421003FD4000/romfs"
+                }
+            }
+        },
+        "Syberia 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Syberia_2/010028C003FD6000.zip",
+            "size": "3.84 MB",
+            "installed": {
+                "hash_file": "010028C003FD6000/romfs/texts/en.xml",
+                "hash_size": 249825,
+                "uninstall": {
+                    "path01": "010028C003FD6000/romfs"
+                }
+            }
+        },
+        "The Diofield Chronicles": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/diofieldchro/010032B015D66000.zip",
+            "size": "27.5 MB",
+            "installed": {
+                "hash_file": "010032B015D66000/romfs/DFC/Content/Paks/DFC-Switch_1_TRPKG_P.pak",
+                "hash_size": 30572879,
+                "uninstall": {
+                    "path01": "010032B015D66000/romfs"
+                }
+            }
+        },
+        "The Escapists": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/theescapists/01001B700BA7C000.zip",
+            "size": "891 KB",
+            "installed": {
+                "hash_file": "01001B700BA7C000/romfs/Data/StreamingAssets/Switch/bundle142",
+                "hash_size": 1223365,
+                "uninstall": {
+                    "path01": "01001B700BA7C000/romfs"
+                }
+            }
+        },
+        "The House of The Dead": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/thotd/010088401495E000.zip",
+            "size": "1.09 MB",
+            "installed": {
+                "hash_file": "010088401495E000/romfs/Data/resources.assets",
+                "hash_size": 2770360,
+                "uninstall": {
+                    "path01": "010088401495E000/romfs"
+                }
+            }
+        },
+        "The Scretchers": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/The_Scretchers/0100AA400A238000.zip",
+            "size": "1.88 MB",
+            "installed": {
+                "hash_file": "0100AA400A238000/romfs/Stretch/Content/Paks/Stretch-Switch_P.pak",
+                "hash_size": 1978118,
+                "uninstall": {
+                    "path01": "0100AA400A238000/romfs"
+                }
+            }
+        },
+        "The Talos Principle": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/The_Talos_Principle/010092A00D43C000.zip",
+            "size": "88.4 MB",
+            "installed": {
+                "hash_file": "010092A00D43C000/romfs/Content/Talos/50_455351_00_All.gro",
+                "hash_size": 93661125,
+                "uninstall": {
+                    "path01": "010092A00D43C000/romfs"
+                }
+            }
+        },
+        "Titan Quest": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Titan_Quest/0100605008268000.zip",
+            "size": "460 KB",
+            "installed": {
+                "hash_file": "0100605008268000/romfs/buildnumber.txt",
+                "hash_size": 8,
+                "uninstall": {
+                    "path01": "0100605008268000/romfs"
+                }
+            }
+        },
+        "Torchlight II": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Torchlight_II/010090400D366000.zip",
+            "size": "512 KB",
+            "installed": {
+                "hash_file": "010090400D366000/romfs/CONSOLELOC/EN_US.LANGUAGE",
+                "hash_size": 2520564,
+                "uninstall": {
+                    "path01": "010090400D366000/romfs"
+                }
+            }
+        },
+        "TOUHOU Luna Nights": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/TOUHOU_Luna_Nights/0100D850131B0000.zip",
+            "size": "33.2 KB",
+            "installed": {
+                "hash_file": "0100D850131B0000/romfs/options.ini",
+                "hash_size": 156,
+                "uninstall": {
+                    "path01": "0100D850131B0000/romfs"
+                }
+            }
+        },
+        "Triangle Strategy": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/trianglestrategy/0100CC80140F8000.zip",
+            "size": "59 MB",
+            "installed": {
+                "hash_file": "0100CC80140F8000/romfs/Newera/Content/Paks/Newera-Switch_TRPKG_v_0.1.0_P.pak",
+                "hash_size": 65848090,
+                "uninstall": {
+                    "path01": "0100CC80140F8000/romfs"
+                }
+            }
+        },
+        "Trials of Mana": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/trialsofmana/0100d7800e9e0000.zip",
+            "size": "37 MB",
+            "installed": {
+                "hash_file": "0100d7800e9e0000/romfs/Trials of Mana/Content/Paks/Trials of Mana-Switch_1_TPKG_P.pak",
+                "hash_size": 40064691,
+                "uninstall": {
+                    "path01": "0100d7800e9e0000/romfs"
+                }
+            }
+        },    
+        "Trine": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine/0100d9000a930000.zip",
+            "size": "184 KB",
+            "installed": {
+                "hash_file": "0100d9000a930000/romfs/patch1.fbq",
+                "hash_size": 270271,
+                "uninstall": {
+                    "path01": "0100d9000a930000/romfs"
+                }
+            }
+        },
+        "Trine 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine_2/010064E00A932000.zip",
+            "size": "13.3 MB",
+            "installed": {
+                "hash_file": "010064E00A932000/romfs/patch3.fbq",
+                "hash_size": 17043309,
+                "uninstall": {
+                    "path01": "010064E00A932000/romfs"
+                }
+            }
+        },
+        "Trine 3": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine_3/0100DEC00A934000.zip",
+            "size": "13 MB",
+            "installed": {
+                "hash_file": "0100DEC00A934000/romfs/patch1.fbq",
+                "hash_size": 16624851,
+                "uninstall": {
+                    "path01": "0100DEC00A934000/romfs"
+                }
+            }
+        },
+        "Ultra Street Fighter II The Final Challengers": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/stftfc/street.zip",
+            "size": "1.62 MB",
+            "installed": {
+                "hash_file": "010028C003FD6000/romfs/nativeNXx64/app/arc_us/mess/mess_resident.arc",
+                "hash_size": 457713,
+                "uninstall": {
+                    "path01": "01007330027EE800/romfs",
+                    "path02": "01007330027EE000/romfs",
+                    "path03": "0100C86000B58000/romfs",
+                    "path04": "0100BBF0027EC000/romfs"
+                }
+            }
+        },
+        "Undertale": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Undertale/010080B00AD66000.zip",
+            "size": "43.7 MB",
+            "installed": {
+                "hash_file": "010080B00AD66000/romfs/game.win",
+                "hash_size": 78016272,
+                "uninstall": {
+                    "path01": "010080B00AD66000/romfs"
+                }
+            }
+        },
+        "Unravel 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Unravel_2/0100E5D00CC0C000.zip",
+            "size": "145 MB",
+            "installed": {
+                "hash_file": "0100E5D00CC0C000/romfs/NVNKits/Data.kit",
+                "hash_size": 1509189,
+                "uninstall": {
+                    "path01": "0100E5D00CC0C000/romfs"
+                }
+            }
+        },
+        "Wildfire": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Wildfire/0100D9D011E3C000.zip",
+            "size": "361 KB",
+            "installed": {
+                "hash_file": "0100D9D011E3C000/romfs/Languages/lang_common.json",
+                "hash_size": 1132347,
+                "uninstall": {
+                    "path01": "0100D9D011E3C000/romfs"
+                }
+            }
+        },
+        "Worms WMD": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Worms_WMD/01001AE005166000.zip",
+            "size": "191 KB",
+            "installed": {
+                "hash_file": "01001AE005166000/romfs/DataNX/Language/AllTextBra64.bin",
+                "hash_size": 173068,
+                "uninstall": {
+                    "path01": "01001AE005166000/romfs"
+                }
+            }
+        },
+        "Xenoblade Chronicles 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/xenoblade2/0100e95004039002.zip",
+            "size": "2.47 MB",
+            "installed": {
+                "hash_file": "0100e95004039002/romfs/bdat/gb/bf01030100_ms.bdat",
+                "hash_size": 1484,
+                "uninstall": {
+                    "path01": "0100e95004039002/romfs"
+                }
+            }
+        },
+        "Xenoblade Chronicles 3 ( Update 2.0.0 )": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/xenoblade3/010074F013262000.zip",
+            "size": "1.19 MB",
+            "installed": {
+                "hash_file": "010074F013262000/romfs/bdat/gb/game/autotalk.bdat",
+                "hash_size": 215988,
+                "uninstall": {
+                    "path01": "010074F013262000/romfs",
+                    "path02": "010074F013262000/exefs"
+                }
+            }
+        },
+        "Xenoblade Chronicles Definitive Edition": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/xenobladeDE/0100FF500E34A000.zip",
+            "size": "8.53 MB",
+            "installed": {
+                "hash_file": "0100FF500E34A000/romfs/bdat/gb/bdat_common_ms.bdat",
+                "hash_size": 433888,
+                "uninstall": {
+                    "path01": "0100FF500E34A000/romfs"
+                }
+            }
+        },
+        "Windbound": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/windbound/010044000f7f2000.zip",
+            "size": "5.05 MB",
+            "installed": {
+                "hash_file": "010044000F7F2000/romfs/Data/resources.assets",
+                "hash_size": 17214364,
+                "uninstall": {
+                    "path01": "010044000F7F2000/romfs"
+                }
+            }
+        },
+        "Yester Morrow": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/YesterMorrow/010076B0101A0000.zip",
+            "size": "28.1 MB",
+            "installed": {
+                "hash_file": "010076B0101A0000/romfs/Data/resources.assets",
+                "hash_size": 8601968,
+                "uninstall": {
+                    "path01": "010076B0101A0000/romfs"
+                }
+            }
+        },
+        "Yooka Laylee": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yooka_laylee/0100F110029C8000.zip",
+            "size": "72.4 KB",
+            "installed": {
+                "hash_file": "0100F110029C8000/romfs/Data/StreamingAssets/AssetBundles/text.switch.en_gb",
+                "hash_size": 72961,
+                "uninstall": {
+                    "path01": "0100F110029C8000/romfs"
+                }
+            }
+        },
+        "Yooka Laylee and The Impossible Lair": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yooka_layleeIP/010022F00DA66000.zip",
+            "size": "929 KB",
+            "installed": {
+                "hash_file": "010022F00DA66000/romfs/Data/sharedassets0.assets",
+                "hash_size": 5431100,
+                "uninstall": {
+                    "path01": "010022F00DA66000/romfs"
+                }
+            }
+        },
+        "Yoshi's Crafted World": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yoshi/01006000040C2000.zip",
+            "size": "348 KB",
+            "installed": {
+                "hash_file": "01006000040C2000/romfs/PJ033/Content/Paks/PJ033-Switch_P.pak",
+                "hash_size": 362184,
+                "uninstall": {
+                    "path01": "01006000040C2000/romfs"
+                }
+            }
+        },
+        "Yu-gi-Oh Link Evolution": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yugiohle/010022400BE5A000.zip",
+            "size": "1.51 GB",
+            "installed": {
+                "hash_file": "010022400BE5A000/romfs/YGO_2020.toc",
+                "hash_size": 17960,
+                "uninstall": {
+                    "path01": "010022400BE5A000/romfs"
+                }
+            }
+        },
+        "Zelda™: Breath of The Wild - Legenda": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/01007EF00011E000.zip",
+            "size": "6.37 MB",
+            "installed": {
+                "hash_file": "01007EF00011E000/romfs/legenda.bin",
+                "hash_size": 32,
+                "uninstall": {
+                    "path01": "01007EF00011E000/romfs"
+                }
+            }
+        },
+        "Zelda™: Breath of The Wild - Dublagem": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/dublagem.zip",
+            "size": "72 MB",
+            "installed": {
+                "hash_file": "01007EF00011E000/romfs/dublagem.bin",
+                "hash_size": 33,
+                "uninstall": {
+                    "path01": "01007EF00011E000"                    
+                }
+            }
+        },
+		"Zelda™: Tears of the Kingdom 2.0 BETA (update 1.1.1 )": {
+            "enabled": true,
+            "link": "https://mega.nz/file/R0hUmaCT#PdnlKqfR8kUGtXwbQSCrHzZc-hZ11qTUOARQ5SWWMfI",
+            "size": "72 MB",
+            "installed": {
+                "hash_file": "0100F2C0115B6000/romfs/System/ResourceSizeTable.Product.111.rsizetable",
+                "hash_size": 2153993,
+                "uninstall": {
+                    "path01": "0100F2C0115B6000/romfs"                    
+                }
+            }
+        },
+        "Zelda™: Link's Awakening": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldala/01006BB00C6F0000.zip",
+            "size": "487 KB",
+            "installed": {
+                "hash_file": "01006BB00C6F0000/romfs/region_common/ui/StartUp.arc",
+                "hash_size": 3541304,
+                "uninstall": {
+                    "path01": "01006BB00C6F0000/romfs/region_common/ui",
+                    "path02": "01006BB00C6F0000/romfs/regionEU",
+                    "path03": "01006BB00C6F0000/romfs/regionUS"
+                }
+            }
+        },
+        "Zelda™: Skyward Sword": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Skyward_Sword/01002DA013484000.zip",
+            "size": "24.7 MB",
+            "installed": {
+                "hash_file": "01002DA013484000/romfs/Layout/DemoTitle.arc",
+                "hash_size": 497152,
+                "uninstall": {
+                    "path01": "01002DA013484000/romfs"
+                }
+            }
+        }
+    },
+    "modifications": {
+        "Diablo II Resurrected - Offline Patch (1.0.2.0)": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
+            "size": "16.1 MB",
+            "installed": {
+                "hash_file": "0100726014352000/exefs/main",
+                "hash_size": 16941316,
+                "uninstall": {
+                    "path01": "0100726014352000/exefs"
+                }
+            }
+        },
+        "GBA ONLINE 200 ROMS (1.0.0)": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/gbaonline/010012F017576000.zip",
+            "size": "1.06 GB",
+            "installed": {
+                "hash_file": "010012F017576000/romfs/bootapp/resources/strings/en/strings.lng",
+                "hash_size": 131699,
+                "uninstall": {
+                    "path01": "010012F017576000/romfs"
+                }
+            }
+        },
+        "GBCOLOR ONLINE 137 ROMS (1.1.0)": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/gbco/0100C62011050000.zip",
+            "size": "160 MB",
+            "installed": {
+                "hash_file": "0100C62011050000/romfs/bootapp/resources/strings/ptbr/strings.lng",
+                "hash_size": 225685,
+                "uninstall": {
+                    "path01": "0100C62011050000/romfs"
+                }
+            }
+        },
+        "Nintendo 64 Online (Update 2.8.0)": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/n64on/0100C9A00ECE6000.zip",
+            "size": "1.08 GB",
+            "installed": {
+                "hash_file": "0100C9A00ECE6000/romfs/titles/lclassics.titlesdb",
+                "hash_size": 63444,
+                "uninstall": {
+                    "path01": "0100C9A00ECE6000/romfs_metadata.bin",
+                    "path02": "0100C9A00ECE6000/romfs/titles",
+                    "path03": "0100C9A00ECE6000/romfs/bootapp/resources/strings"
+
+                }
+            }
+        },
+        "Nintendo 64 Online (Fullscreen Mod)": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/n64fullscreen/0100C9A00ECE6000_FULLSCREEN.zip",
+            "size": "38.2 KB",
+            "installed": {
+                "hash_file": "0100C9A00ECE6000/romfs/bootapp/resources/scenes/sys/sysmain.scn",
+                "hash_size": 340503,
+                "uninstall": {
+                    "path01": "0100C9A00ECE6000/romfs/bootapp/resources/scenes",
+                    "path02": "0100C9A00ECE6000/romfs/bootapp/resources/scripts"
+                }
+            }
+        },
+        "Mario + Rabbids Sparks of Hope (60 FPS MOD)": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/MRSH60FPS/0100317013770000.zip",
+            "size": "686 B",
+            "installed": {
+                "hash_file": "0100317013770000/cheats/29c71f06d781eff1.txt",
+                "hash_size": 296,
+                "uninstall": {
+                    "path01": "0100317013770000/cheats/Movies"
+                }
+            }
+        },
+        "Mario Strikers Battle League FIX EMUMMC SD Files": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/mariostrikersfix/010019401051C000.zip",
+            "size": "86 KB",
+            "installed": {
+                "hash_file": "010019401051C000/romfs/Movies/IntroMovie.webm",
+                "hash_size": 6639,
+                "uninstall": {
+                    "path01": "010019401051C000/romfs/Movies"
+                }
+            }
+        },
+        "Mega Drive 145 Roms": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/genesis/0100B3C014BDA000.zip",
+            "size": "163 MB",
+            "installed": {
+                "hash_file": "0100B3C014BDA000/romfs/bootapp/resources/strings/en/strings.lng",
+                "hash_size": 124345,
+                "uninstall": {
+                    "path01": "0100B3C014BDA000/romfs"
+                }
+            }
+        },
+        "Metroid Dread Easy Mode": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/metroidprimeeasy/010093801237C000.zip",
+            "size": "86 KB",
+            "installed": {
+                "hash_file": "010093801237C000/romfs/config.ini",
+                "hash_size": 87238,
+                "uninstall": {
+                    "path01": "010093801237C000/romfs/config.ini"
+                }
+            }
+        },
+        "SNES 300 ROMS - Nintendo Switch Online (Requer Update 1.0.0)" : {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/sneson/snes300.zip",
+            "size": "431 MB",
+            "installed": {
+                "hash_file": "01006BB00C6F0000/romfs/regionEU/EUen/message/Glossary.msbt",
+                "hash_size": 18224,
+                "uninstall": {
+                    "path01": "01006BB00C6F0000/romfs"                    
+                }
+            }
+        },
+        "Sonic Origins (S3 & K) - Músicas Originais": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/s3%26k-music/sorigins_s3korig_mus.zip",
+            "size": "122 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01009FB016286000"
+                }
+            }
+        },
+        "TMNT: Shredder's Revenge - Color Pack TMNT Turtles in Time": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/tmnt/0100FE701475A000.zip",
+            "size": "7.71 MB",
+            "installed": {
+                "hash_file": "0100FE701475A000/romfs/Content/2d/Animations/Bosses/Slash/SlashTexture.zxnb",
+                "hash_size": 202121,
+                "uninstall": {
+                    "path01": "0100FE701475A000"
+                }
+            }
+        },
+        "Zelda™: Link's Awakening - No Blur": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/ZeldaAwekeningNoBlur/01006BB00C6F0000.zip",
+            "size": "280 KB",
+            "installed": {
+                "hash_file": "01006BB00C6F0000/romfs/region_common/shader/postprocess.bfsha",
+                "hash_size": 2966464,
+                "uninstall": {
+                    "path01": "01006BB00C6F0000/romfs/region_common/shader"
+                }
+            }
+        },
+        "Zelda™: BOTW Second Wind Mod": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/zeldasecondwind/second_wind.zip",
+            "size": "1.11 GB",
+            "installed": {
+                "hash_file": "01007EF00011E000/romfs/Effect/ExpandFireField_Golem.sesetlist",
+                "hash_size": 119768,
+                "uninstall": {
+                    "path01": "01007EF00011E000",
+                    "path02": "01007EF00011F001"
+                }
+            }
+        }
+    },
+    "GMPACK-MOTD": {
+        "enabled": true,
+        "always_show": true,
+        "message": "05/05/2023 21:25PM\nAVISO!\n\nO APG hospeda seus conteúdos no GitHub e, recentemente, eles mudaram suas políticas de acesso limitando em somente 60 por IP/hora.\nEsta mudança afeta o APG! Portanto evite abri-lo mais do que 2 vezes num intervalo de 1 hora.\nEstamos cientes disto e iremos preparar uma atualização para tentar mitigar este problema, mas não há um prazo definido ainda!\n\nAgradecemos a compreensão!"
+    },
+    "CNXPACK-MOTD": {
+        "enabled": true,
+        "always_show": true,
+        "message": "05/05/2023 21:25PM\nAVISO!\n\nO CNX hospeda seus conteúdos no GitHub e, recentemente, eles mudaram suas políticas de acesso limitando em somente 60 por IP/hora.\nEsta mudança afeta o CNX! Portanto evite abri-lo mais do que 2 vezes num intervalo de 1 hora.\nEstamos cientes disto e iremos preparar uma atualização para tentar mitigar este problema, mas não há um prazo definido ainda!\n\nAgradecemos a compreensão!"
+    },
+    "SGM-MOTD": {
+        "enabled": true,
+        "always_show": true,
+        "message": "05/05/2023 21:25PM\nAVISO!\n\nO SGM hospeda seus conteúdos no GitHub e, recentemente, eles mudaram suas políticas de acesso limitando em somente 60 por IP/hora.\nEsta mudança afeta o SGM! Portanto evite abri-lo mais do que 2 vezes num intervalo de 1 hora.\nEstamos cientes disto e iremos preparar uma atualização para tentar mitigar este problema, mas não há um prazo definido ainda!\n\nAgradecemos a compreensão!"
+    },
+    "cfws": {
+        "GMPACK": {
+            "releases": "https://api.github.com/repos/gamemoddesignbr/gmpack/releases/latest"
+        },
+        "CNX": {
+            "releases": "https://api.github.com/repos/AMSNX/CNX/releases/latest"
+        },
+        "SGM": {
+            "releases": "https://api.github.com/repos/SGMSteel1/sgmpack/releases/latest"
+        },
+        "OUTROS": {
+        "releases": "https://api.github.com/repos/gnxswitch/gnxsd/releases/latest"
+        }
+    },
+    "firmwares": {
+        "releases": "https://api.github.com/repos/AMSNX/NX-Firmwares/releases"
+    }
+}
